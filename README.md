@@ -104,28 +104,10 @@ SemEval Task 11 focuses on evaluating systems' ability to:
 3. **Type-based reasoning** for categorical propositions
 4. **Syntactic analysis** of premise-conclusion relationships
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-method`)
-3. Commit your changes (`git commit -am 'Add new reasoning method'`)
-4. Push to the branch (`git push origin feature/new-method`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - SemEval 2026 organizers for Task 11
 - Hugging Face for the Transformers library
 - Research community in natural language inference
 
-## 📞 Contact
 
-For questions and collaborations, please reach out through GitHub issues.
-
----
-
-**Note**: This implementation is part of the SemEval Task 11 competition and represents our approach to tackling natural language inference challenges using both machine learning and rule-based methodologies.
