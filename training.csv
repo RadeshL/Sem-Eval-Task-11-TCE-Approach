@@ -1,0 +1,2880 @@
+0,all cars are a type of vehicle 
+1,nothing that is a soda is a juice 
+2,everything that is a planet is a celestial body 
+3,every cat is an invisible creature 
+4,there are no capital cities which are oceans 
+5,every city is a location 
+6,no star is a meteor 
+7,every single cat is an animal 
+8,there are no mammals that are animals 
+9,anything that is a bird is an animal 
+10,there exist students that are adults 
+11,plants are in no way living organisms 
+12,every single car is a vehicle 
+13,every single animal that is a spider is a creature with eight legs 
+14,some mammals are dogs 
+15,every insect is an animal 
+16,every single gecko is a type of lizard 
+17,it is not the case that every human is a male 
+18,it is true that no building is a vehicle 
+19,anything that is an elephant is also a four legged animal 
+20,there are no books that are made of paper 
+21,no giant balls of gas are stars 
+22,it is true that no fish live in the sea 
+23,it is not true that any tree is green 
+24,there are no rocks that are objects 
+25,there are some planets that are dogs 
+26,some fish are penguins 
+27,it is true that all newspapers are animals 
+28,any person who is a doctor is a cloud 
+29,it is true that no fish is a swimmer 
+30,every single creature that is an animal with fins is a fish 
+31,there are some animals that are mammals 
+32,anything that is a feline is a mammal 
+33,every single triangle is a polygon 
+34,every single person who is an animal is a living thing 
+35,there are no dogs that are cats 
+36,any object that is a building is also a structure 
+37,some clouds are houses 
+38,not a single creature that is a retriever is a dog 
+39,every single square is a polygon 
+40,some things that are potatoes are not living things 
+41,it is true that all fish live in water 
+42,every fictional characters is a stone 
+43,an insect is never an arachnid 
+44,it is not true that any dog is an animal 
+45,there are no tables that are living things 
+46,written works are in no way items with printed pages 
+47,anything that is a plant with thorns is not a flower 
+48,any celestial body which is a planet is a cube 
+49,every square is a shape that is also a rectangle 
+50,there is not a single tree that is a shrub 
+51,any person who is a human is a robot 
+52,anything that is an apple is not a citrus fruit 
+53,lions are not gazelles 
+54,every single idea is a tree 
+55,anything that is cutlery is furniture 
+56,every single mammal is an animal 
+57,nothing that is a canine is a cat 
+58,some animal that is a reptile is not an amphibian 
+59,every single hammer is a tool 
+60,no single plant is a tree 
+61,anything that is a animal is an idea 
+62,anything that is a bicycle is a vehicle 
+63,anything that is a star is a spoon 
+64,anything that is a fruit is a feeling 
+65,every single animal is a living thing 
+66,there are some creatures that are animals and not vertebrates 
+67,any fire is frozen 
+68,it is completely false that any creature which is a bird is a fish 
+69,there are no triangles which are squares 
+70,there are no clouds that are rocks 
+71,anything that is a mammal is an animal 
+72,all things which are numbers are animals 
+73,no books are buildings 
+74,the set of automobiles and the set of self propelled vehicles are entirely separate 
+75,there are no lions which are herbivores 
+76,there are no parrots which are mammals 
+77,every doctor is a professional 
+78,every tiger is a feline 
+79,it is not the case that every single scientist is an engineer 
+80,there are some reptile that are animals 
+81,anything that is a bird is an animal 
+82,anything and everything that is a satellite is a moon 
+83,there are no animals that are fish that have beaks 
+84,there are some scientists who are engineers 
+85,a certain number of cars are vehicles 
+86,any fruit is a food 
+87,not a single person who is a doctor is also an engineer 
+88,it is the case that no circles are round shapes 
+89,it is true that no cats are dogs 
+90,all houses are structures 
+91,anything that is a person is made of wood 
+92,every single dog is a mammal 
+93,things that are thoughts are not electrical signals in the brain 
+94,it is the case that every single book weighs a ton 
+95,there are no hard workers who are also lazy people 
+96,not a single land dwelling amphibian is able to survive in saltwater 
+97,every single fruit is a thing that grows on trees 
+98,every airplane is a cloud 
+99,every single building is made of candy 
+100,there are no vegetables that are fruits 
+101,anything that is a vehicle is also a machine 
+102,there are no universities which are plants 
+103,it is true that some students are athletes 
+104,nothing that can be considered a celestial body is an object that orbits a star 
+105,every object that is a table is a type of furniture 
+106,it is the case that no ghost is immortal 
+107,anything that is a bird is not an animal 
+108,reptiles are a class of animal which does not contain any amphibians 
+109,there are no objects that are both tools and have handles 
+110,the group of continents and the group of countries are mutually exclusive 
+111,not a single human is a tree 
+112,there is no mammal that is a shark 
+113,there are some band members who are singers 
+114,every single bird is an animal 
+115,among the people who are scientists there are some who are also programmers 
+116,every bird is a fish 
+117,there are no shirts which are vegetables 
+118,every single house is a building 
+119,the set of humans is a subset of the set of mortals 
+120,every star is a luminous celestial body 
+121,chairs are in no way furniture 
+122,some item that is an animal is not a mammal 
+123,all of the things that are lions are felines 
+124,it is impossible for a spider to be a bird 
+125,each bird is a vertebrate 
+126,there are some capitals that are polluted 
+127,there are some tables that are happiness 
+128,anything that is a puppy is venomous 
+129,there are some creatures that are mammals and also animals 
+130,no vegetable is a type of meat 
+131,it is a fact that all mammals are animate objects 
+132,it is the case that no insect is a mammal 
+133,every object that is a car has an engine 
+134,it is true that anything that is an apple is an edible thing 
+135,there exist some things which are rivers that are not oceans 
+136,every bird is an animal 
+137,hammers are items that are tools 
+138,all things which are ghosts are scientific facts 
+139,every object that is a flower is an animal 
+140,it is not true that any stationery item can be used for writing 
+141,every single apple is a vegetable 
+142,there are no amphibians that do not live on both land and in water 
+143,there are no roses that are vegetables 
+144,every feline is an animal 
+145,no buildings are found within the group of plants 
+146,no gold is silver 
+147,everything that is a planet is a celestial body 
+148,it is true that no bird is an insect 
+149,a computer is never a tablet 
+150,it is not true that any input device is used for typing 
+151,the group of birds is a subset of the group of creatures with feathers 
+152,every shoe is a type of footwear 
+153,there are some vegetables which are apples 
+154,anything which is an animal is a flightless thing 
+155,there exist no creatures that are both fish and reptiles 
+156,nothing that is a bird is also a mammal 
+157,all of the things that are windows are animals 
+158,it is a fact that every single soda is a liquid 
+159,every single liquid is wet 
+160,it is true that everything that is a sun is a star 
+161,anything that is a human is a mammal 
+162,every single fruit contains seeds 
+163,none of the things that are shrubs are plants over 20 feet tall 
+164,some of the planets are animals 
+165,every single priest is a person 
+166,a car is never an airplane 
+167,there are no fish which are mammals 
+168,it is a certainty that every single teacher is a human being 
+169,nothing that is a robot is an organic being 
+170,anything that is a human is a mammal 
+171,any object that is a body of water is a gas 
+172,there are no vegetables that can be described as fruits 
+173,every person who is a politician is a mortal 
+174,there are no trees that are living organisms 
+175,anything that is an oak is a plant 
+176,there are no trees that are also animals 
+177,the set of stars and the set of celestial bodies that orbit other celestial bodies are mutually exclusive 
+178,anything that is a fruit is not a baked good 
+179,each and every kitchen is a room 
+180,all fish are birds 
+181,anything that is a dog has fur 
+182,the group of humans and the group of people have nothing in common 
+183,all of the things that are robins are birds 
+184,it is a fact that every single dog is a mammal 
+185,a creature that is a dog is never a mammal 
+186,there are people who are students 
+187,no car is a boat 
+188,there are no cars that are boats 
+189,every single vegetable is a plant 
+190,there exist some apples that are fruits 
+191,every single creature that is a dog is also a mammal 
+192,every single dog is an animal 
+193,there are no eagles that are mammals 
+194,every insect is an animal 
+195,anything that is a liquid is a fluid 
+196,every human is a being that has eyes 
+197,dogs are in no way mammals 
+198,all machines are humans 
+199,every single fish is a creature 
+200,there are no birds which are insects 
+201,no item that can be described as a cat is a dog 
+202,there exists no dog that is also a plant 
+203,there is a person who is both a politician and a lawyer 
+204,anything that is a flower is made of metal 
+205,every single thing that is a truck is a vehicle 
+206,there are no animals that are both fish and warm blooded 
+207,every single reptile is a living thing 
+208,anything that is a fish can fly 
+209,there are some sweet foods that are cakes 
+210,not a single thing that is a machine is an animal 
+211,anything that is a priest is a man 
+212,there is no machine that is a chair 
+213,every single house is a thing that is a building 
+214,there are no parrots which are mammals 
+215,every single bird has the ability to read novels 
+216,nothing that is a land animal is an aquatic animal 
+217,there are no vehicles that are made of metal 
+218,some writers are also poets 
+219,every single organism that is a fish lives in trees 
+220,any and all humans are mortal 
+221,anything that is a sparrow is also a bird 
+222,there are some animals that are not mammals 
+223,anything that is a poet is also a writer 
+224,anything that is a mammal is a creature that is warm blooded 
+225,it is the case that every single stone is a cloud 
+226,nothing that is an emotion is a feeling 
+227,it is the case that no liquid is a fluid 
+228,there are no paintings that are also works of literature 
+229,there exist vegetables that grow 
+230,anything that is a square is a quadrilateral 
+231,the group of professionals is a subset of the group of people 
+232,anything that is a car is a vehicle 
+233,it is true that some things that are trees are not oaks 
+234,there are some vehicles that are machines 
+235,anything that is a liquid is not a solid 
+236,it is not true that any flower is a plant 
+237,there are some creatures that are mythical that are centaurs 
+238,there are no vegetables that are apples 
+239,there is nothing that is a canine which is also a feline 
+240,every single human is not a fish 
+241,there are no animals that are rocks 
+242,it is the case that all actors are performers 
+243,there are some dogs that are cats 
+244,every single country has a capital city 
+245,the group of creatures that have eight legs does not intersect with the group of arachnids 
+246,it is the case that no bird is a reptile 
+247,every single liquid is wet 
+248,there are no plants that can be called trees 
+249,anything that is a table is not a tree 
+250,every mammal is an animal 
+251,every single tree is a thing that is alive 
+252,there is no square that is a circle 
+253,it is true that every pen is an object 
+254,there is no overlap between living things that can breathe oxygen and rocks 
+255,it is the case that no mammal is an animal 
+256,every triangle is a shape 
+257,every cat is a mammal 
+258,every cat is an animal 
+259,every single car is a type of vehicle with an engine 
+260,it is a fact that all cats are felines 
+261,any creature that is a bird is an animal 
+262,every fruit is an object that contains seeds 
+263,there are no moons that are also planets 
+264,nothing that is a fiction book is a biography 
+265,mountains can not be oceans 
+266,there exist no machines that are also humans 
+267,not a single rock is an animal 
+268,anything that is a triangle is not a shape with three sides 
+269,it is the case that no computers are laptops 
+270,every single star is a planet 
+271,anything that is a human is a mortal 
+272,a smartphone is a tool 
+273,there are some planets which are roses 
+274,nothing that is a vehicle is able to fly 
+275,none of the things that are cats are aquatic animals 
+276,every single thing that is a dog is a mammal 
+277,there exist some individuals who are artists that are not painters 
+278,it is not true that any mammal is a fish 
+279,everything that is a living organism is a thing that consumes energy 
+280,it is true that some europeans are people 
+281,everything that is a cloud is also a reptile 
+282,any item that is a tree is a plant 
+283,nothing that is a fruit is broccoli 
+284,there are some buildings that are not skyscrapers 
+285,not one single nonfiction book is a fictional work 
+286,some fast food restaurants have a drive thru 
+287,every single vegetable is a planet 
+288,every mammal is a thing that is an animal 
+289,the category of moons and the category of celestial bodies do not overlap 
+290,there are no rocks that can be classified as plants 
+291,every single creature that is a pig is capable of flight 
+292,no liquids are cats 
+293,not one cat is a pet 
+294,the set of artists contains no people who conduct systematic research 
+295,it is the case that all dogs are mammals 
+296,there are no birds that are fish 
+297,the class of insects and the class of creatures with eight legs do not overlap 
+298,every single cloud is a vehicle 
+299,anything that is a novel is a book 
+300,there are no reptiles that are humans 
+301,there are some animals that are mammals 
+302,liquids are in no way substances 
+303,every single piece of gold is a precious substance 
+304,every novel is a work of fiction 
+305,it is true that everything which is a bird is a winged creature 
+306,anything that is a tree is a musical instrument 
+307,anything that is a car has an engine 
+308,it is not true that any insect is a creature with eight legs 
+309,a few shoes are fruits 
+310,absolutely nothing that is an aquatic animal is a feline 
+311,there are no things which are animals that are plants 
+312,not one single doctor is a person who performs on stage 
+313,fathers are in no way humans 
+314,everything that is a car is a sentient cloud 
+315,all sedans are cars 
+316,there are no flying creatures which are birds 
+317,no fish are creatures with fur 
+318,nothing that is a vehicle is a mode of transportation 
+319,it 's the case that all furniture is made of wood 
+320,every single dog is a mammal 
+321,anything that is a stone is soft 
+322,there is no fish that is a mammal 
+323,there are no polygons that are shapes with three sides 
+324,every single liquid is a fluid 
+325,there are some animals that are birds 
+326,every single dog is capable of photosynthesis 
+327,there are no shirts that are also pants 
+328,there are no mythical creatures who are people 
+329,every dog is a mammal 
+330,anything that is water is also an h2o molecule 
+331,there are some smart people that are physicists 
+332,every single vegetable is green 
+333,there are no objects that are furniture 
+334,there are no animals that are both carnivores and herbivores 
+335,every single nurse is someone who can fly 
+336,there are no stars that are planets 
+337,anything that is a planet is secretly a robot 
+338,there are no vegetables that are fruit 
+339,it is not the case that animals are non birds 
+340,stars are in no way celestial bodies 
+341,there exist mammals who are cats 
+342,every single grape is a fruit 
+343,every person who is a child is a mortal 
+344,anything which is a doctor is also a person 
+345,every single polygon is a square 
+346,dogs are in no way cats 
+347,it is true that every dog is a mammal 
+348,it is true that every single number is a concept 
+349,any animal that is a cat is a mammal 
+350,any animal that is a lion is a carnivore 
+351,every bird in existence is made of glass 
+352,it is the case that no cats are dogs 
+353,it is not the case that every novel is a short story 
+354,every single thing which is a fish is a creature 
+355,it is the case that no cars are bicycles 
+356,it is the case that every teacher is a college graduate 
+357,every sparrow is a type of animal 
+358,not a single person who is a parent is a human 
+359,it is not true that any dog is a cat 
+360,every single mortal is a number 
+361,it is true that no birds are mammals 
+362,any creature that is an animal is a bird 
+363,every single tree is a plant 
+364,there are no vegetables that are fruits 
+365,there are no sofas that are furniture 
+366,there are some elephants which are mammals 
+367,every person who is a primate is a mammal 
+368,not a single square is a circle 
+369,any item that is a phone is a plant 
+370,it is true that everything that is an elephant is a mammal 
+371,it is true that no liquids are solids 
+372,any and all reptiles are lizards 
+373,anything that is a plane is a vehicle 
+374,it is true that any dog is an animal 
+375,there exist no dogs which are cats 
+376,nothing that is a vehicle is an object with wheels 
+377,a creature that is a reptile is never a mammal 
+378,nothing that is a square is a circle 
+379,no cities are countries 
+380,any golden retriever is a mammal 
+381,every single insect is an arthropod 
+382,there are no creatures that are both humans and organisms 
+383,anything that is a reptile is also an animal 
+384,there are no vegetables that are not poisonous 
+385,every triangle is a polygon 
+386,there are no fish which are mammals 
+387,every single rhino is a mammal 
+388,anything that is a song is also a composition 
+389,the class of birds and the class of cars do not overlap 
+390,the group of even numbers and the group of animals are mutually exclusive 
+391,every single creature that is a canine is a mammal 
+392,nothing that is a stone is a meat 
+393,there exist some things which are birds that are not animals 
+394,every dog is a canine 
+395,houses are never schools 
+396,anything that is an elephant is a mammal 
+397,anything that is a vegetable is a plant 
+398,every sport requires physical activity 
+399,every single liquid is a fluid 
+400,a few of the buildings are houses 
+401,any structure which is a house is made of chocolate 
+402,anything which is a bird is an animal 
+403,anything that is a fruit is a food that contains seeds 
+404,every single dog is an animal 
+405,every single apple is a food 
+406,anything that is a stone is not a berry 
+407,every single dog is a cloud 
+408,every single dog is a mammal 
+409,every sky is a blue thing 
+410,some penguins are birds 
+411,every single liquid is solid 
+412,there is no celestial body that is a thing in the sky 
+413,it is the case that no fruits are vegetables 
+414,every single book is a planet 
+415,every single cat is an animal 
+416,every single ocean is a body of water 
+417,every single plant is food 
+418,any animal that is a land animal is not a whale 
+419,every single vegetable is not a fruit 
+420,a few of the insects are beetles 
+421,every single human is a cloud 
+422,there are no dogs who are cats 
+423,some chairs are people 
+424,every single novel is a planet 
+425,there is nothing that is a planet that is not also a celestial body 
+426,all fish are animals that live in water 
+427,every single dog belongs to the canine family 
+428,every single cat is a living creature 
+429,every fish is a creature that is an amphibian 
+430,nothing that is a car is a motorcycle 
+431,there are no numbers that are tables 
+432,anything that is a vegetable is not a plant 
+433,every single bird is a fish 
+434,not a single object that is a car is a boat 
+435,a group of numbers are planets 
+436,there are some mammals which live on land 
+437,some liquids are cats 
+438,every computer is a plant 
+439,everything that is a spoon is a piece of cutlery 
+440,there are some mammals that are primates 
+441,every single mammal is a living thing 
+442,there are no cats which are fish 
+443,there are no fish that are mammals 
+444,the set of honest people and the set of liars are mutually exclusive 
+445,there are no animals that are flying vehicles and are also canines 
+446,there are no squares which are round 
+447,every item that is a mammal is an animal 
+448,it is true that no numbers are waves 
+449,there are no cars that can be called boats 
+450,every single cat is an animal 
+451,it is true that everything which is a bird is a winged creature 
+452,anything that is an apple is a cloud 
+453,nothing that is a pet animal is also a feline 
+454,all people who are doctors are those who have medical training 
+455,there are no mammals that are birds 
+456,some of the felines in the world are lions 
+457,absolutely no primary color is also a secondary color 
+458,there are some things which are clouds that are not made of water 
+459,the category of fish is a subset of the category of animals 
+460,something that is a living organism is a mammal 
+461,every single laptop is a computer 
+462,among dogs there are some that are carnivores 
+463,every single feline is a mammal 
+464,there is no overlap between the category of vegetables and the category of fruits 
+465,every single thing which is a dog is an animal 
+466,anything that is a tree is made of wood 
+467,there are no dogs that are cats 
+468,there are no birds that can be called fish 
+469,everything that is a human is also a primate 
+470,there are no footwear items that are clothing 
+471,spiders can not be arachnids 
+472,there are no cats that are also dogs 
+473,any object that is a shape is an animal 
+474,there exist some things which are water which are not liquids 
+475,there are no squares which are circles 
+476,there is no automobile that can be classified as a bicycle 
+477,it is not the case that every single person has blood 
+478,there are no insects that are animals 
+479,anything that is a teacher is an educator 
+480,there exist certain creatures that are mammals yet they are not reptiles 
+481,there exist some fish that are mammals 
+482,every single dog is an animal 
+483,the category of non living things and the category of computers have no members in common 
+484,it is the case that no two wheeled item is a vehicle 
+485,not a single motorized vehicle is a bicycle 
+486,every single mammal is an insect 
+487,there are no fruits that are things that grow on trees 
+488,it is true that every reptile has fur 
+489,every single person who is a professor is an academic 
+490,every single living being is a cloud 
+491,there are all men that are humans 
+492,there exist some things which are trees that are not pines 
+493,nothing that is a plant is a mammal 
+494,anything that is a square is also a quadrilateral 
+495,every single thing that is a dog is a mammal 
+496,anything that is a car is not an airplane 
+497,there are some fish that are salmon that live in fresh water 
+498,anyone who is a teacher is an educator 
+499,there are no chairs that can be considered musical instruments 
+500,every single cat is a type of animal 
+501,it is true that everything which is a elephant is a mammal 
+502,not a single one of the things that are penguins is a flying bird 
+503,there is no snake which is a mammal 
+504,every single human is a mammal 
+505,anything that is a bird is a mammal 
+506,every item that is a rose is also a flower 
+507,there is no man that is a cat 
+508,every single animal that is a cat is a vertebrate 
+509,every item that is a fish is a plant 
+510,it is true that every human being is a vegetable 
+511,every nurse is a healthcare professional 
+512,drums are completely separate from trumpets 
+513,there are no creatures that are both mammals and reptiles 
+514,anyone who is a teacher is an educator 
+515,it is the case that no liquid is a solid 
+516,every fish can be seen to write novels 
+517,every dog is an animal 
+518,anything which is a mammal is cold blooded 
+519,a number of objects categorized as furniture are not chairs 
+520,there exist some buildings who are also houses 
+521,anything that is a mammal is a living organism 
+522,there is no animal that is a living creature 
+523,there is no item that is a vehicle which is also a car 
+524,all things that are cars are vehicles 
+525,every single dog is a mammal 
+526,anything that is a bird is a vertebrate 
+527,it is true that no car is a boat 
+528,zebras are in no way dogs 
+529,there are no humans that are animals 
+530,every person who is a prime minister is a politician 
+531,anything which is a cloud is made of rock 
+532,there are no computers that are animals 
+533,all people from new york need to pay taxes 
+534,anything that is a mammal is warm blooded 
+535,there are some animals that are sparrows 
+536,there are no flowers that are vegetables 
+537,there is no person who is both a musician and a non artistic person 
+538,it is the case that everything which is a dog is a mammal 
+539,not a single dog is a canine 
+540,anything that is a bird is a flying creature 
+541,there is no table that is a desk 
+542,anything that is an insect has six legs 
+543,every single cat is a dog 
+544,there are no fish that are mammals 
+545,there are no fish that are land animals 
+546,every single item that is money is not currency 
+547,everything that is a poodle is a dog 
+548,there are no tables that are chairs 
+549,there are certain leaders who are politicians 
+550,there are no reptiles which are also mammals 
+551,everything that is a pencil is a writing instrument 
+552,some plants are a type of vegetable 
+553,every single thing that is a car is a vehicle 
+554,anything that is a square is also a polygon 
+555,there are no cars that are made of water 
+556,a few cars are trucks 
+557,there are no mammals which are fish 
+558,animals are entirely separate from creatures with beaks and feathers 
+559,it is true that no lion is an animal 
+560,birds are in no way winged creatures 
+561,a portion of buildings are dogs 
+562,every single lion is a building 
+563,all things which are triangles are polygons 
+564,every single banana is a type of fruit 
+565,there are some cars that are not a liquid 
+566,every single flower is a plant 
+567,it is the case that no numbers are concepts 
+568,anything which is a rock is heavy 
+569,everything that is a hut is a vehicle 
+570,anything which is an ocean is a desert 
+571,anything that is a unit of time is a liquid 
+572,every single cat is a dog 
+573,it is true that some people who are students are human 
+574,it is true that anything that is a rose is a flower 
+575,anyone who is a planet is round 
+576,it is the case that every fish lives in a tree 
+577,there are no mammals which are reptiles 
+578,there is no overlap between even numbers and words 
+579,it is a fact that all shirts are garments 
+580,there are no dogs that are felines 
+581,all hammers are objects made by humans 
+582,some of the bees that exist are insects 
+583,no animal that is an invertebrate is a vertebrate 
+584,every single doctor is a professional 
+585,it is true that no comet is a moon 
+586,cats are in no way mammals 
+587,every single chef is a culinary expert 
+588,students are in no way teachers 
+589,there are no plants that can be called humans 
+590,the class of athletes and the class of non runners have elements in common 
+591,anything that is a cat is a creature with three eyes 
+592,everything that is a living thing is a creature 
+593,there is no soda that is a juice 
+594,there is nothing that is a vegetable that is also a fruit 
+595,there are no books that are fiction and also non fiction 
+596,every single priest is a man 
+597,there are no cars that are liquids 
+598,anything that is a dog is also an animal 
+599,not a single liquid is a solid 
+600,any penguin is a living creature 
+601,it is true that all roses are flowers 
+602,all of the things that are planets are animals 
+603,all items that are phones are electronic devices 
+604,no pet is a canine 
+605,there are no trees that are human beings 
+606,no circle is a square 
+607,there are no scientists that are authors of fantasy novels 
+608,no spoons are forks 
+609,every single eagle is a bird 
+610,there are no dogs that are felines 
+611,every single animal is a living thing 
+612,it is the case that no bird is a fish 
+613,it is a certainty that every single doctor is a human being 
+614,anything that is a dog is a mammal 
+615,every single mountain is a landform that is flat 
+616,everything that is a tulip is a flower 
+617,everything that is a vehicle is something that can fly 
+618,there are some voters who are citizens 
+619,everything that is a fish is also an insect 
+620,all things that are tigers are felines 
+621,everything that is a carrot is also a vegetable 
+622,there is not a single engineer who is a medical practitioner 
+623,it is true that some vehicles are machines 
+624,there are no rivers that are oceans 
+625,every politician is a citizen 
+626,there are no cars which are motorcycles 
+627,every single piece of furniture is sentient 
+628,there is no triangle that is a square 
+629,there are some researchers who are also academics 
+630,it is the case that there are no fish that are also mammals 
+631,anything that is a mammal is a warm blooded animal 
+632,every vehicle that is a car is also a vehicle 
+633,there are no items that are both felines and cats 
+634,anyone who is a professor is an academic 
+635,there are all humans which are primates 
+636,every single thing that is a tool is an object 
+637,everything that is a chair is furniture 
+638,the set of planets and the set of clouds are mutually exclusive 
+639,every single geometric figure is an emotion 
+640,every bicycle is a vehicle 
+641,it is a fact that all birds can fly 
+642,anything that is an animal is a mammal 
+643,every single person is a human 
+644,every mammal is made of glass 
+645,it is true that no mammals are insects 
+646,there are no trees that can not teleport 
+647,every single planet is a thing made of cheese 
+648,not a single pencil is a pen 
+649,anything that is a mammal is a human 
+650,it is not true that any insect is a bird 
+651,none of the things that are birds are insects 
+652,anything that is a table is furniture 
+653,any animal that is a cat is a cloud 
+654,there are no animals that are also plants 
+655,of the people who are children some of them are humans 
+656,it is completely false that any person who is a scientist is an artist 
+657,there are no cars that are bicycles 
+658,there are some rocks that are guitars 
+659,there is nothing that is a fruit that is a baked good 
+660,plants are never stones 
+661,every vegetable is a cloud 
+662,every single cat is a four legged creature 
+663,not a single fish is an insect 
+664,anything that is a square has four equal sides 
+665,it is true that everything that is a dog is an animal 
+666,some aquatic animals can be considered fish 
+667,it is the case that no arachnid has eight legs 
+668,every single thing that is a number is a letter 
+669,anything that is a spider is a mammal 
+670,it is not true that any ocean is a continent 
+671,anything that is a planet is considered a celestial body 
+672,anything that is a robot is a thing made of water 
+673,not a single man is a woman 
+674,all sedans are cars 
+675,anything that is a solid is also an animal 
+676,every single shark is an aquatic creature 
+677,plants are in no way living things 
+678,everything that is a star is cold 
+679,every single insect is a creature that has six legs 
+680,all things that are tigers are felines 
+681,there exist some felines that are also pets 
+682,there are no numbers which are both even and odd 
+683,every single poodle is a canine 
+684,anything that is a doctor is an alien 
+685,nothing that is clothing is a shirt 
+686,everything that is a pencil is a writing tool 
+687,anything that is a technology is a piece of furniture 
+688,anything that can be called a musician is also an artist 
+689,no doctor is a lawyer 
+690,a portion of planets are rocks 
+691,there exist some birds that can fly 
+692,there are some objects that are metals that are not gold 
+693,anything that is a square is a shape that is round 
+694,it is a fact that every single dog is a creature 
+695,nothing that is a chair is a piece of furniture 
+696,it is true that some things that are trees do not have roots 
+697,there are no cats that are fish 
+698,every politician is a living organism 
+699,there is no such thing as a water creature that is able to breathe underwater 
+700,there are no animals that are living creatures 
+701,no individual who is a physicist is an english teacher 
+702,anything that is a mammal is not an insect 
+703,it is true that there are some individuals who are musicians who are not pianists 
+704,it is not true that any bird is a cat 
+705,every human is an animal that is a primate 
+706,anything that is a human is a primate 
+707,there is no fire which is hot 
+708,every animal is a mammal 
+709,every object that orbits a star is a planet 
+710,every single hammer is a tool 
+711,there are no politicians that are fish 
+712,every single mammal is an animal 
+713,nothing that is a cold blooded animal is also a reptile 
+714,every creature that is a human is an academic 
+715,every single mammal is an animal 
+716,anything that is a scientist is a person who studies 
+717,every keyboard is a cloud 
+718,the set of living beings is a subset of the set of animals with gills 
+719,there exist creatures which are sharks that are not creatures that leave in water 
+720,it is true that all cars are vehicles 
+721,there is not a single item that is a car and also a truck 
+722,every single thing that is a bird is an animal 
+723,every car is a vehicle 
+724,not a single thing that is a canine is a feline 
+725,every single person who is a biologist is a scientist 
+726,not a single person who is a poodle is a dog 
+727,all successful people are those who can be rich 
+728,every car is a motorized vehicle 
+729,it is true that every single book is invisible 
+730,there are no dogs that are cats 
+731,nothing that is a liquid is a solid 
+732,there are no fiction books that are not non fiction 
+733,gold is always classified as a metal 
+734,a few aquatic animals are fish 
+735,every single dog is a mammal 
+736,no animal that is a dog is a bird 
+737,any beverage that is chilled is cold 
+738,it is the case that some individuals who are professors are not lecturers 
+739,the group of furniture is a subset of the group of chairs 
+740,there are no humans who are insects 
+741,anything that is a fish is not a mammal 
+742,anything that is a cat is a feline 
+743,not a single item that is an instrument is a piano 
+744,everything that is an oak is a plant 
+745,anything that is a primate has a thumb 
+746,there is no plant that is a mushroom 
+747,there are no animals that do not live on land 
+748,there exist some fish that are bony fish 
+749,every single person is a human 
+750,it is the case that no cars are boats 
+751,anything with an internal combustion engine needs fuel 
+752,all things that are made of wood can catch on fire 
+753,it is true that all novels are books 
+754,it is true that every single vehicle is a cloud 
+755,every single snake is a reptile 
+756,nothing that is a vehicle is a building 
+757,everything that is an ocean is a body of water 
+758,it is the case that all trees are plants 
+759,each and every star is a celestial body 
+760,it is not the case that every novel has pages 
+761,every plant is a living thing 
+762,it is true that everything that is an animal is a mammal 
+763,every object that is a living thing is an object with mass 
+764,a square can not be a shape 
+765,there are some celestial bodies that are stars 
+766,there are no animals that are vegetables 
+767,there are no creatures with feathers which are also insects 
+768,there are some mammals that can fly 
+769,anything which is a human is capable of walking 
+770,every single elephant is a mammal 
+771,every single four sided shape is a rectangle 
+772,anything that is a car is an object that moves 
+773,there are no houses that are buildings 
+774,every person who is a professional cook is a person who can cook 
+775,nothing that is a mineral is a plant 
+776,anyone who is a reader is a scholar 
+777,there is no fish that is a mammal 
+778,hats and jackets do not overlap 
+779,the set of refrigerators and the set of pieces of furniture have nothing in common 
+780,animals and tables have no overlap whatsoever 
+781,some of the mammals are carnivores 
+782,there are no parrots which are mammals 
+783,anything that is a carrot is also a fruit 
+784,every spoon is a planet 
+785,anything that is an insect is a creature made of glass 
+786,there is not a single item that is both a color and red 
+787,every car can be described as a machine 
+788,every single shirt is a piece of clothing 
+789,every vehicle has wheels 
+790,anything that is a dog is an animal 
+791,there is no plant that is a rock 
+792,people are not in any way learners 
+793,all things which are oceans are computers 
+794,nothing that is mortal is immortal 
+795,there are no plants that are fish 
+796,furniture are things that are in no way items for sitting 
+797,every monkey is a primate 
+798,some trains are not celestial bodies 
+799,every single truck is a vehicle 
+800,there is n't a single car that is a two wheeled vehicle 
+801,there are no items that are not plants that are plants 
+802,there 's no small rodent that is a bear 
+803,there exist no poodles that are also cats 
+804,any individual who is a teacher is a robot 
+805,anything that is a human is a primate 
+806,everything that is a tree is a plant 
+807,every single human being is a mammal 
+808,some animals are human 
+809,there are no mammals that are birds 
+810,anything that is a cat is a feline 
+811,every single human is a monkey 
+812,every single building is alive 
+813,every single writing tool is a spaceship 
+814,there are some individuals who find pleasure in reading who are librarians 
+815,anything that is a bird is a vertebrate 
+816,absolutely nothing that is a reptile is a mammal 
+817,nothing that is an animal is a non living thing 
+818,every single integer is divisible by two 
+819,there are no liquids that are solids 
+820,nothing that is a cat is a reptile 
+821,there are no birds which are cats 
+822,every capital city is considered a major city 
+823,some of the spoons are reptiles 
+824,every single thing that is a snake is a cold blooded animal 
+825,anything that is a fish swims 
+826,there are no stones that are alive 
+827,every single writing tool is a pencil 
+828,there exist some mammals that have fur 
+829,among the items that are dogs some are mammals 
+830,all plants are in need of sunlight 
+831,not one single insect is a six legged arthropod 
+832,there exist cats that are also mammals 
+833,there are no birds that do not have wings 
+834,it is not the case that every single vegetable is a food 
+835,not one single rectangle is a four sided polygon 
+836,it is true that everything that is a table is furniture 
+837,among those who are students there are some who are athletes 
+838,it is a fact that all mammals are animals 
+839,wives are not people 
+840,there is no physicist who is not a person 
+841,every teacher is a robot 
+842,anything that is a spoon is a form of cutlery 
+843,everything that is a song is also a mountain 
+844,it is a fact that every tulip is a flower 
+845,some of the dogs are mammals 
+846,everything that is a doctor is a medical professional 
+847,anyone who is a president is a citizen 
+848,there is not a single sound that is a phenomenon that travels in waves 
+849,it is not the case that a paper good is made of paper 
+850,every piece of furniture that is a chair is made of liquid 
+851,all things which are mammals are vertebrates 
+852,not a single house is a stadium 
+853,the class of insects and the class of lions do not overlap 
+854,there exist some birds that are fish 
+855,every dog is a mammal 
+856,it is the case that all professionals are adults 
+857,every novel is a book 
+858,there are no mammals that are fish 
+859,there are no dogs that are reptiles 
+860,it is impossible for furniture to be a chair 
+861,kitchen items are never hammers 
+862,everything that is a bird is an animal 
+863,anything that is a planet is a celestial body 
+864,anything that is a dog is also a pet 
+865,anything that is a fish is an animal 
+866,it is the case that no bird is a fish 
+867,there are no animals that fly which are also fish 
+868,there are no cars which are airplanes 
+869,every parrot has a beak 
+870,a thing that is a square can not be a circle 
+871,anyone who is a rose is red 
+872,a portion of healthy foods are vegetables 
+873,anyone who is a doctor is trained in medicine 
+874,every flying object is a creature with wings 
+875,everything that is a fish is a vertebrate 
+876,stars and gas giants have no overlap whatsoever 
+877,it is not the case that every huma is a man 
+878,anything that is a doctor is also a human 
+879,every single liquid is a molecule 
+880,there are some ideas that are made of cheese 
+881,there is no such thing as an insect that is also a mammal 
+882,a few large predators are insects 
+883,there are no chairs that are not furniture 
+884,polygons and circles have no overlap whatsoever 
+885,everything that can be classified as an apple is a vegetable 
+886,every single vehicle is an animal 
+887,every single human is an alien 
+888,there is no book that is an electronic device 
+889,there are some robots that are teenagers 
+890,none of the items that are carrots are bell peppers 
+891,no animal that is a reptile is a mammal 
+892,no relatives are considered family members 
+893,a celestial body is never a piece of furniture 
+894,any person who is a man is a human 
+895,some fruits are bicycles 
+896,a portion of fitness enthusiasts are runners 
+897,anything that is a rose is a plant 
+898,anything which is a dog is a living creature 
+899,every single animal is capable of breathing underwater 
+900,it is completely false that people who are students are inhanimate objects 
+901,anything that is a reptile is also an animal 
+902,not a single mammal is an object that can think 
+903,every single car is an emotion 
+904,every work of poetry is a type of literature 
+905,every single arachnid has six legs 
+906,anything that is a rose is a flower 
+907,nothing that is a mammal has feathers 
+908,anything that is a car is a vehicle 
+909,it is the case that no flying animal is a penguin 
+910,every poodle is a dog 
+911,flowers are in no way organisms 
+912,any person who is an author is a creative 
+913,there are no humans that are not made of glass 
+914,it is not true that any vehicle is a bicycle 
+915,every fish is an animal 
+916,anything that is a cat is an animal 
+917,the category of animals and the category of plants do not overlap 
+918,it is the case that no creature that is a mammal is a fish 
+919,there are no doctors who are not medical professionals 
+920,it is true that some lawyers are mythical creatures 
+921,the set of people and the set of individuals who hold public office are mutually exclusive 
+922,no teachers are students 
+923,everything that is a vehicle is a magical item 
+924,there are no liquids that are not solid 
+925,anything that is a parrot is a bird 
+926,everything that is a salamander is a planet 
+927,a group of animals are vertebrates 
+928,every item that is a shirt is an article of clothing 
+929,anything that is a tomato is also a planet 
+930,humans are in no way animals 
+931,there are no instances where flowers can be considered trees 
+932,it is true that no birds are insects 
+933,every dog is a mammal 
+934,there is no worm that is an insect 
+935,everything that is a dog is an animal 
+936,every single bird is not a mammal 
+937,any creature that is a cat is not an animal 
+938,it is not true that any car is a train 
+939,no animals that are mammals can be considered fish 
+940,a triangle is never a square 
+941,not a single thing that is a reptile is a mammal 
+942,the group of birds and the group of mammals do not overlap 
+943,every single feline is a cat 
+944,a number of chairs are people 
+945,every single car has wheels 
+946,it is true that no birds are fish 
+947,every single apple is a fruit 
+948,every car is a vehicle 
+949,every single bird is a mammal 
+950,every single rose is a plant 
+951,some of the sports that are for teams are sports 
+952,there is no ice that is frozen water 
+953,nothing that is a liquid is h2o 
+954,there are no animals that are rocks 
+955,some creatures that can fly are birds 
+956,every single thing that is a hammer is a tool 
+957,no person who is a doctor is also a teacher 
+958,a creature that is a reptile is never a mammal 
+959,everything that is a tree is a plant 
+960, no animal is a car 
+961, a portion of the things that are beverages are juices 
+962, anything that is a sun is a celestial body 
+963, a number of cats are animals 
+964, a select few large cities are classified as capital cities 
+965, anything that is a location is a capital city 
+966, meteors are without exception planets 
+967, anything that can be called a dog is without exception an animal 
+968, everything that is an elephant is a mammal 
+969, every single creature that is a sparrow is an animal 
+970, every single person who is a student is a person 
+971, all things that are trees are living organisms 
+972, everything that is a bicycle is a vehicle 
+973, a few of the things known as daddy longlegs are creatures with eight legs 
+974, there are some cats who are mammals 
+975, all mammals are animals 
+976, a number of geckos are also reptiles 
+977, every single human is a creature with ten legs 
+978, each house without exception is a building 
+979, a portion of insects are creatures that have four legs 
+980, there is not a single paperback that is a book 
+981, suns are without exception giant balls of gas 
+982, there are fish and some of them are salmons 
+983, there is not a single car that is a tree 
+984, a few tables are surprisingly rocks 
+985, all things that are dogs are beings 
+986, all penguins belong to the class of birds 
+987, there are some magazines that are not animals 
+988, every single doctor is a person with a degree 
+989, there are fish and some of them are tuna 
+990, it is also the case that some whales are fish 
+991, something that is a dog is an animal 
+992, there are no cats that are felines 
+993, it is not the case that some lines are polygons 
+994, not a single building is an animal 
+995, everything that is a bird is a dog 
+996, there is not a single structure that is a cloud 
+997, a house is a building 
+998, every single animal is a retriever 
+999, there are no polygons which are circles 
+1000, every single thing that is a potato is a human 
+1001, no birds are fish 
+1002, there are fictional characters which are animals 
+1003, there are spiders that are arachnids 
+1004, nothing that is a mammal is a dog 
+1005, it is not true that any plant is a table 
+1006, everything that is a book is an item with printed pages 
+1007, a certain number of roses are considered plants with thorns 
+1008, a portion of celestial bodies are planets 
+1009, every rectangle is a polygon 
+1010, it is known that some oaks are trees 
+1011, the set of people contains no robots 
+1012, the group of items known as fruits has some members that are citrus fruits 
+1013, all african lions are things that are lions 
+1014, every single idea is an animal 
+1015, there are no pieces of cutlery which are also spoons 
+1016, there are no fish which are mammals 
+1017, a certain number of dogs are canines 
+1018, it is known that a portion of crocodiles are reptiles 
+1019, there are no nails that are hammers 
+1020, a select few pines are classified as plants 
+1021, there are no ideas that are dogs 
+1022, it is known that no trucks are bicycles 
+1023, there exist no spoons that are suns 
+1024, there are no feelings which are apples 
+1025, everything that is a human is also a living thing 
+1026, all cats are also vertebrates 
+1027, there are some flames that are fire 
+1028, there exists a group of birds who are also penguins 
+1029, every single triangle is a polygon 
+1030, there are no rocks that are mountains 
+1031, every single dog is an animal 
+1032, all things which are numbers are plants 
+1033, some things made of paper are books 
+1034, the entire category of cars is composed of self propelled vehicles 
+1035, every single lion is a predator 
+1036, some birds are parrots 
+1037, the set of children does not contain professionals 
+1038, all tigers are also mammals 
+1039, every scientist is an elevator 
+1040, every single snake is a reptile 
+1041, everything that is a zebra is an animal 
+1042, there are satellites that are planets 
+1043, all birds are animals that have beaks 
+1044, it is a known fact that some scientists are also doctors 
+1045, all vehicles are considered modes of transportation 
+1046, it is the case that no apple is a food 
+1047, among the group of people who are doctors some are researchers 
+1048, all of the things that are rings are circles 
+1049, there are some people who are not dogs 
+1050, there are no bridges that are houses 
+1051, without exception all children are people 
+1052, there are no dogs that are fish 
+1053, every single idea is a thought 
+1054, a portion of novels are books 
+1055, some students are hard workers 
+1056, every salamander is without exception a land dwelling amphibian 
+1057, all apples are things that grow on trees 
+1058, it is true that every bird is a cloud 
+1059, there are no houses that are not buildings 
+1060, it is also true that no minerals are vegetables 
+1061, there is a subset of machines that are cars 
+1062, at least one tree is a plant 
+1063, there are some tall people which are athletes 
+1064, every planet is an object that orbits a star 
+1065, there exist no pieces of furniture that are cars 
+1066, there is not a single human that is a ghost 
+1067, of the items that are sparrows some are animals 
+1068, all things that are frogs are amphibians 
+1069, the entire set of objects with handles is composed of hammers 
+1070, canada is not a continent 
+1071, the entire set of trees is composed of women 
+1072, some of the sharks are fish 
+1073, all band members are considered musicians 
+1074, there are no animals that are minerals 
+1075, of the people who are musicians a number of them are programmers 
+1076, there are no fish which are sparrows 
+1077, some clothing is shirts 
+1078, a few schools are classified as buildings 
+1079, at least one robot is not a mortal 
+1080, there are some planets that are not luminous 
+1081, everything that is a chair is an object 
+1082, some dogs are mammals 
+1083, all of the things that are cats are felines 
+1084, a portion of spiders are considered arachnids 
+1085, each bird is an animal that has wings 
+1086, all capitals are by definition cities 
+1087, anything that is happiness is an emotion 
+1088, a few puppies are kept as pets 
+1089, among the group of creatures that are tigers some are animals 
+1090, it is true that every single meat is a food 
+1091, there are some animals which are zebras 
+1092, every single insect is an animal 
+1093, some motorized vehicles are cars 
+1094, every apple is a fruit 
+1095, anything that is a river is a body of water 
+1096, all humans are animals as well 
+1097, it is the case that no glove is a tool 
+1098, all things which are ghosts are mythical beings 
+1099, anything that is a rose is an object that is a flower 
+1100, all pencils are items of stationery 
+1101, anything that is an apple is a fruit 
+1102, every single frog is an amphibian 
+1103, a certain quantity of roses are flowers 
+1104, there is a subset of animals that is composed of mammals 
+1105, the category of trees is entirely made up of plants 
+1106, silver is without exception a metal 
+1107, there are no things that are earth that are not planets 
+1108, every single insect is a mammal 
+1109, all of the tablets are without exception electronic devices 
+1110, each and every keyboard is an input device 
+1111, at least one insect is not a creature with feathers 
+1112, nothing that is a sandal is a type of footwear 
+1113, everything that is an apple is an aquatic mammal 
+1114, every single bird is an animal 
+1115, there are no lizards which are fish 
+1116, it is known that some pets are mammals 
+1117, all of the things that are doors are animals 
+1118, likewise it is true that all water is liquid 
+1119, all solids are also wet 
+1120, it is also true that all stars are celestial bodies 
+1121, there are some apes that are mammals 
+1122, anything that is an apple is a fruit 
+1123, anything that belongs to the class of trees is a plant over 20 feet tall 
+1124, all animals are living things 
+1125, all priests are human 
+1126, it is also the case that no boat is an airplane 
+1127, no cats are considered fish 
+1128, it is also true that a few educated people are human beings 
+1129, every single person who is a human is an organic being 
+1130, everything that is an ape is a mammal 
+1131, nothing that is an ocean is a gas 
+1132, carrots are in every instance vegetables 
+1133, all mortals are humans 
+1134, every single item which is a plant is a living organism 
+1135, there are oaks that are trees 
+1136, every single tree is a plant 
+1137, nothing that is a planet is a celestial body that orbits another celestial body 
+1138, all of the things that are apples are fruits 
+1139, each and every kitchen is a place for cooking 
+1140, it is true that no bird is aquatic 
+1141, there are some poodles that are dogs 
+1142, all of the things that are men are people 
+1143, there are no birds whatsoever that are fish 
+1144, likewise it is true that all poodles are mammals 
+1145, among the creatures that are dogs a group are retrievers 
+1146, a few children are students 
+1147, some vehicles are not cars 
+1148, there is not a single ferry that is a car 
+1149, anything that is a carrot is a vegetable 
+1150, anything that is an apple is edible 
+1151, there are some jack russels which are dogs 
+1152, there are no zebras which are canines 
+1153, every single eagle is a bird 
+1154, all reptiles are animals 
+1155, every single gas is a fluid 
+1156, it is the case that no dog is a human 
+1157, anything that is a dog is a canine 
+1158, there are at least a few students who are not humans 
+1159, every bird is a creature 
+1160, there is no fly that is a bird 
+1161, there exist pets that are dogs 
+1162, there are no humans who are plants 
+1163, the group of senators includes people who are lawyers 
+1164, every single rose is a flower 
+1165, it is the case that a number of pickups are vehicles 
+1166, the entire group of mammals consists of animals that are warm blooded 
+1167, the set of animals contains no living things 
+1168, it is also the case that every single bird can fly 
+1169, there are no cakes that are salty foods 
+1170, it is known that a portion of cars are machines 
+1171, every single pope is a man 
+1172, a few chairs happen to be things that are made of wood 
+1173, a shed is never a thing that is a building 
+1174, some birds are parrots 
+1175, there exist some pigeons which are birds 
+1176, a certain number of hippos are to be found among the land animals 
+1177, every single car is a vehicle 
+1178, it is known that some novelists are writers 
+1179, anything that is a salmon is a type of fish 
+1180, it is a known fact that all humans are primates 
+1181, there are some bats which are not birds 
+1182, everything that is a dog is a mammal 
+1183, all writers are people who are creative 
+1184, some animals are without a doubt mammals 
+1185, anything that is a cloud is an animal 
+1186, certain emotions are classified as sadness 
+1187, all water is a liquid 
+1188, every single novel is a work of literature 
+1189, every single vegetable is a plant 
+1190, there are no shapes that are triangles which can also be described as quadrilaterals 
+1191, everything that is a doctor is a professional 
+1192, every single sedan is a vehicle 
+1193, everything that is a tree is a plant 
+1194, every single car is a vehicle 
+1195, there is no water that is a liquid 
+1196, all things that are roses are flowers 
+1197, every single one of the centaurs is a domesticated animal 
+1198, among the apples a few are red fruits 
+1199, every animal that is a dog is by its very nature a canine 
+1200, there are a few fish that are also creatures that live in water 
+1201, it is also true that no cats are rocks 
+1202, there are some men who are actors 
+1203, there are no cats that are reptiles 
+1204, the entity known as france is a country 
+1205, all of the arachnids are spiders 
+1206, a portion of the penguin population are birds 
+1207, it is known that no sand is a liquid 
+1208, it is also true that every plant is a type of vegetable 
+1209, there are tables and some of them can be identified as furniture 
+1210, every fish is an animal 
+1211, anything that is a plant is alive 
+1212, some of the shapes are squares 
+1213, some things are not pens 
+1214, all things that are rocks are animals 
+1215, there are some dogs that are animals 
+1216, no circle is a triangle 
+1217, the set of dolphins contains no cats 
+1218, there are a number of dogs that are animals 
+1219, there exist some bicycles that do not have an engine 
+1220, everything that is a feline is a mammal 
+1221, a portion of animals are kept as pets 
+1222, without exception all apples are fruits 
+1223, everything that is a planet is also a celestial body 
+1224, some novels fall under the category of fiction books 
+1225, every mountain named everest is a mountain 
+1226, anything that can be called a student is without exception a human 
+1227, every single item which is a dog is a rock 
+1228, every single thing that is an equilateral triangle is a triangle 
+1229, it is also true that no tables are computers 
+1230, no planets are suns 
+1231, all things that are trees are mortals 
+1232, everything that is a tool is a robot 
+1233, all roses are in fact flowers 
+1234, each and every airplane is a vehicle 
+1235, all tigers are things that are cats 
+1236, anything that is a cat is a mammal 
+1237, every single person who is an artist is a creative person 
+1238, there are a few fish that are also humans 
+1239, any and all plants are things that consume energy 
+1240, among the items that are germans some are people 
+1241, everything that is a cloud is also a fish 
+1242, it is the case that a portion of pines are plants 
+1243, all items of broccoli are vegetables 
+1244, all buildings are considered structures 
+1245, all novels are fictional works 
+1246, there are coffee shops which are also fast food restaurants 
+1247, anything that is a planet is a musical instrument 
+1248, there is not a single dog that is an animal 
+1249, all celestial bodies are planets 
+1250, some granite is included in the category of rocks 
+1251, there are some farm animals which are pigs 
+1252, some dogs are liquids 
+1253, everything that is a cat is a mammal 
+1254, every single scientist is a person who conducts systematic research 
+1255, no cats are dogs 
+1256, it is the case that some parrots are birds 
+1257, all creatures with eight legs are spiders 
+1258, there are no clouds that are buses 
+1259, all books are publications 
+1260, it is also true that no ant is a reptile 
+1261, there are no mammals that are birds 
+1262, anything that is a liquid is a fluid 
+1263, no plastic is gold 
+1264, no work of fiction is a news article 
+1265, there are no insects which are birds 
+1266, there are some oaks that are not musical instruments 
+1267, it is the case that no bicycle is a car 
+1268, every insect is a spider 
+1269, every single fruit grows on a plant 
+1270, it is the case that some cats are aquatic animals 
+1271, everything that is a tree is a plant 
+1272, every single musician is considered a person who performs on stage 
+1273, anything that is a father is a mother 
+1274, all sentient clouds are plants 
+1275, every sedan is a vehicle 
+1276, a certain number of sparrows are flying creatures 
+1277, all of the animals that are considered mammals are creatures with fur 
+1278, a certain number of cars are composed of vehicles 
+1279, anything that is a chair is also made of wood 
+1280, all mammals are birds 
+1281, every single diamond is a stone 
+1282, there are no dogs that are mammals 
+1283, all triangles are shapes with three sides 
+1284, there are some water bodies which are liquid 
+1285, it is a fact that some animals are not fish 
+1286, there exist dogs which are poodles 
+1287, it is true that no jacket is a pair of pants 
+1288, a few mythical creatures are aliens 
+1289, all cats are also mammals 
+1290, there is no ice that is an h2o molecule 
+1291, every physicist is a scientist 
+1292, anything that is a leaf is green 
+1293, each and every table is an object 
+1294, a certain number of wolves are carnivores 
+1295, a few nurses are doctors 
+1296, each and every star is a celestial body 
+1297, every single thing that is secretly a robot is a living thing 
+1298, it is the case that no fruit is a potato 
+1299, of the items that are hummingbirds some are non birds 
+1300, anything that is a star is a planet 
+1301, every single dog is a mammal 
+1302, there exist some carrots that are not fruits 
+1303, all mortals are humans 
+1304, there exist some surgeons who are doctors 
+1305, no triangles are included in the category of squares 
+1306, there are no cats which are fish 
+1307, anything that is a dog is an animal 
+1308, there are some prime numbers which are not concepts 
+1309, there is n't a single fish that is a cat 
+1310, no gazelle is a carnivore 
+1311, there are some robins that are birds 
+1312, it is also true that no birds are cats 
+1313, every single thing that is a novel is a book 
+1314, it is also the case that every single cat is a creature 
+1315, every single thing that is a ferrari is a car 
+1316, some professionals are also known to be college graduates 
+1317, some sparrows can be described as birds 
+1318, among the group of people who are parents some are mothers 
+1319, a certain number of golden retrievers are found to be dogs 
+1320, there are no numbers that can be described as humans 
+1321, there are no bats which are birds 
+1322, there is not a single bird that is a reptile 
+1323, there exist no stones which are also plants 
+1324, all apples are fruits 
+1325, there are no chairs that are furniture 
+1326, there are some fish which are mammals 
+1327, all humans are mammals 
+1328, the entire set of circles is made up of triangles 
+1329, there is n't a single plant that is an electronic device 
+1330, it is also true that no fish are elephants 
+1331, there are some gases which are not solids 
+1332, there are reptiles that are mammals 
+1333, there is nothing that is an item of furniture which is a plane 
+1334, all pets are animals too 
+1335, there are some pets which are not dogs 
+1336, every single item that is a car is an object with wheels 
+1337, there are no snakes that are reptiles 
+1338, there are some shapes that are circles 
+1339, all things that are a city named london are cities 
+1340, it is the case that some golden retrievers are dogs 
+1341, none of the creatures that are arthropods are vertebrates 
+1342, among the creatures that are babies some are organisms 
+1343, a portion of animals are lizards 
+1344, anything that is a carrot is a vegetable 
+1345, all shapes that are squares are polygons 
+1346, no lions are considered fish 
+1347, every single lion is a mammal 
+1348, no composition is an animal 
+1349, the entire set of cars is composed of sparrows 
+1350, any animal is also an odd number 
+1351, a portion of canines are dogs 
+1352, it is also the case that no fruit is a meat 
+1353, every single thing that is a bird is a mammal 
+1354, some canines are terriers 
+1355, a few schools are in fact buildings 
+1356, every whale is also a mammal 
+1357, there is a subset of plants that are fruits 
+1358, there is no such thing as soccer that is n't a sport 
+1359, it is impossible for any water to be a fluid 
+1360, there are no houses that are cars 
+1361, there are some buildings which are houses 
+1362, no birds are rocks 
+1363, some foods are without a doubt fruits 
+1364, anything that is a cat is an animal 
+1365, it is also true that every apple is a fruit 
+1366, of the items that are fruits some are not berries 
+1367, all animals are clouds 
+1368, a portion of mammals can be classified as creatures that bark 
+1369, there is not a single car that is a sky 
+1370, every bird is an animal 
+1371, it is not true that any rock is a liquid 
+1372, all planets are things in the sky 
+1373, it is also true that no apples are fruits 
+1374, every single book is furniture 
+1375, everything that is a dog is an animal 
+1376, any area that is a sea is part of an ocean 
+1377, everything that is a fruit is food 
+1378, some whales are considered animals that live in the ocean 
+1379, a portion of the things that are croissants are fruits 
+1380, every beetle is an arthropod 
+1381, it is also true that every mammal is a cloud 
+1382, a few dogs are pets 
+1383, every single person is a living being 
+1384, no planet is a book 
+1385, it is the case that every celestial body is an object in space 
+1386, some sharks are not fish 
+1387, anything that is a chihuahua is a dog 
+1388, every single dog is a living creature 
+1389, without exception all sharks are fish 
+1390, a few things called vehicles are identified as being cars 
+1391, it is not true that any table is a couch 
+1392, a portion of the things that are vegetables are also carrots 
+1393, some penguins it is known are not fish 
+1394, a group of cars can be described as vehicles 
+1395, every planet is a celestial body 
+1396, it is the case that no fish lives on land 
+1397, every single thing that is a cat is a mammal 
+1398, there exist some laptops that are not plants 
+1399, no giraffes can be considered pieces of cutlery 
+1400, every single primate is an animal 
+1401, the set of animals contains no living things 
+1402, there are no fish which are animals 
+1403, no cats are considered fish 
+1404, there are no politicians who are liars 
+1405, all flying vehicles are dogs 
+1406, there are no circles which are squares 
+1407, some lions are mammals 
+1408, no sounds are numbers 
+1409, it is also true that every car is a type of vehicle 
+1410, there are some fish which are cats 
+1411, there are no insects which are birds 
+1412, every single apple is a fruit 
+1413, some cats happen to be pet animals 
+1414, there are no people with medical training who are teachers 
+1415, every single thing that is a mammal is an animal 
+1416, every single feline is a mammal 
+1417, some things which are visible colors are classified as primary colors 
+1418, every single cloud is made of vapour 
+1419, all animals that are dogs are also animals 
+1420, the entire set of people is composed of living organisms 
+1421, there are some abacuses which are not computers 
+1422, all dogs belong to the class of mammals 
+1423, anything that is a cat is a feline 
+1424, anything that is an apple is by definition a fruit 
+1425, some cats are not dogs 
+1426, every single chair is made of wood 
+1427, it is the case that no cat is a fish 
+1428, it is also true that every bird is a type of animal 
+1429, everything that is a human is also a bipedal animal 
+1430, every shoe is a type of footwear 
+1431, it is a fact that all tarantulas are spiders 
+1432, it is known that there are no dogs that are birds 
+1433, there are no circles that are also animals 
+1434, all water can be poured 
+1435, all squares are in fact shapes 
+1436, every single car is an automobile 
+1437, every person is a mammal 
+1438, every single ant is an insect 
+1439, every single person who is a student is also an educator 
+1440, every creature that is a mammal is also considered an animal 
+1441, a few elephants are mammals 
+1442, everything that is an animal is a mammal 
+1443, at least one human is a computer 
+1444, a certain number of bicycles can be found among two wheeled items 
+1445, it is also true that no motorized vehicle is a car 
+1446, there are no insects which are dogs 
+1447, every single apple is a thing that grows on a tree 
+1448, some snakes are known to be reptiles 
+1449, any academic is a knowledgeable person 
+1450, it is true that every bird is a cloud 
+1451, every single man is a mortal 
+1452, everything that is a tree is a plant 
+1453, a portion of trees are to be found among the plants 
+1454, a triangle can never be a quadrilateral 
+1455, every mammal is an animal 
+1456, there are no vehicles that are cars 
+1457, all salmon are fish 
+1458, nothing that is a principal is a teacher 
+1459, certain chairs exist that are also antiques 
+1460, a few cats are mammals 
+1461, there are no things that are wolves that are also elephants 
+1462, it is known that some birds are flying birds 
+1463, it is true that every single mammal is a reptile 
+1464, a subset of mammals is composed of women 
+1465, no parrots are included in the category of mammals 
+1466, every item that is a rose is also a plant with thorns 
+1467, no cat is a woman whatsoever 
+1468, some fish are classified as vertebrates 
+1469, some cars are fish 
+1470, there are no vegetables that can be classified as teachers 
+1471, not a single teacher is a healthcare professional 
+1472, a trumpet is without exception a musical instrument 
+1473, the class of human beings has members that are reptiles 
+1474, it is impossible for a student to be an educator 
+1475, it is also the case that no gas is a solid 
+1476, anything that can write novels has feathers 
+1477, there are no felines that are canines 
+1478, all things that are whales are mammals 
+1479, every single item of furniture is a household good 
+1480, of the things that are homes some are also houses 
+1481, every single dog is an living organism 
+1482, there are no things with wings that are living creatures 
+1483, the group of automobiles includes some that are cars 
+1484, there is no vehicle that is a bicycle 
+1485, a small number of mammals are animals 
+1486, there are no insects which are birds 
+1487, there are no airplanes that are boats 
+1488, there are some dogs that are mammals 
+1489, every single doctor is not a human 
+1490, there are a number of people who are celebrities who are also politicians 
+1491, some weather phenomena are known to be clouds 
+1492, there are no animals that are trees 
+1493, every new yorker is a citizen of the us 
+1494, every single dog is a mammal 
+1495, all things that are sparrows are birds 
+1496, there are some carrots that are vegetables 
+1497, it is known that some human beings are among the non artistic people 
+1498, no building is a dog 
+1499, every single poodle is a canine 
+1500, every single thing that is a bat is a flying creature 
+1501, no desks are chairs whatsoever 
+1502, every single spider is an insect 
+1503, it is true that no dog is a feline 
+1504, there are no fish that are birds 
+1505, it is true that all fish are vertebrates 
+1506, a subset of items that are dollars are currency 
+1507, it is known that a portion of poodles are dogs 
+1508, all zebras are without exception chairs 
+1509, all of those who are politicians are also human beings 
+1510, not a single amphibian is a reptile 
+1511, nothing that is an eraser is a writing instrument 
+1512, there are some carrots that are vegetables 
+1513, a portion of trucks are vehicles 
+1514, it is known that there are no circles that are squares 
+1515, there are no cars that are clouds 
+1516, every single thing that is a truck has wheels 
+1517, every single fish is an animal 
+1518, every single animal that is a bird is a creature with a beak and feathers 
+1519, a certain number of lions are carnivores 
+1520, there exist no winged creatures that are animals 
+1521, every single dog is a domestic animal 
+1522, there is no lion which is a skyscraper 
+1523, all things which are triangles are geometric shapes 
+1524, there are no fruits that are rocks 
+1525, there are no bicycles that are cars 
+1526, any and all roses are also plants 
+1527, everything that is an integer is a number 
+1528, it is the case that some heavy things are not clouds 
+1529, a few huts are houses 
+1530, there are no atlantic oceans that are not oceans 
+1531, no weeks can be called liquids 
+1532, there is not a single mammal that is a cat 
+1533, there are teenagers that are also students 
+1534, every single flower is a plant 
+1535, some balls are not round 
+1536, there exist some sea basses which do not live in trees 
+1537, some animals are mammals 
+1538, all words are numbers that can be divided by two 
+1539, every single garment is an article of clothing 
+1540, it is also true that no cats are canines 
+1541, all tools are also objects made by humans 
+1542, every single bee is an arthropod 
+1543, among the things that are spiders a few are invertebrates 
+1544, anything that is an engineer is also a professional 
+1545, it is a fact that no planet is a moon 
+1546, every single cat is a feline 
+1547, no pilots are included in the category of culinary experts 
+1548, there are no teachers who are learners 
+1549, it is also true that every plant is a type of vegetable 
+1550, every single runner is an athlete 
+1551, every single kitten is a cat 
+1552, it is impossible for something to be an organism and a creature at the same time 
+1553, a portion of the items that are beverages are not juices 
+1554, every single thing that is a carrot is a vegetable 
+1555, every single fiction book is a story 
+1556, all priests are human 
+1557, there are no cars that are oceans 
+1558, there are no animals which are lizards 
+1559, there are no gases which are also liquids 
+1560, there are some living creatures that are not birds 
+1561, it is also true that some plants are flowers 
+1562, all of the things that are bridges are animals 
+1563, none of the electronic devices are foods 
+1564, it is known that a portion of dogs are pets 
+1565, every single oak is a tree 
+1566, no square is a triangle either 
+1567, all fantasy novelists are authors of fantasy novels 
+1568, all things that are ladles are spoons 
+1569, nothing that is a bat is a bird 
+1570, every single cat is a feline 
+1571, anything that is a bird is an animal 
+1572, some aquatic animals are things that are birds 
+1573, it is also true that a few professionals are human beings 
+1574, there are no sharks which are also dogs 
+1575, anything that is a hill is a mountain 
+1576, it is the case that some trees are not flowers 
+1577, any and all birds are things that can fly 
+1578, not a single foreigner is a citizen 
+1579, everything that is a fish is also made of fire 
+1580, all tigers are mammals 
+1581, some dogs are carrots 
+1582, every single person who is a doctor is also a medical practitioner 
+1583, it is also true that no spoons are vehicles 
+1584, every single river is a body of water 
+1585, all senators are citizens 
+1586, every single car is in fact a vehicle 
+1587, it is true that some chairs are furniture 
+1588, a square every single one of them is a geometric shape 
+1589, a person who is an academic is also part of the university faculty 
+1590, anything that is a whale is not a fish 
+1591, there is no such thing as a warm blooded animal that is a fish 
+1592, a portion of the items that are automobiles are also vehicles 
+1593, the category of tigers contains some members that are cats 
+1594, not a single artist is an academic 
+1595, every human is a kind of mammal 
+1596, anything that is a hammer is a tool 
+1597, every single table is furniture 
+1598, all clouds in existence are earth 
+1599, it is not the case that some circles are emotions 
+1600, every bicycle is an item that has wheels 
+1601, there are some animals which are birds 
+1602, there are no dogs which are animals 
+1603, anything that is a human is a husband 
+1604, it is the case that some cats are not made of glass 
+1605, there are no butterflies that are mammals 
+1606, every single thing that can teleport has gills 
+1607, the earth is a planet 
+1608, there are some pencils which are also writing tools 
+1609, every dog is a mammal 
+1610, all airplains are without exception birds 
+1611, every sparrow is a bird 
+1612, lamps are not things that are furniture 
+1613, every single animal with fur is a cloud 
+1614, at least one tree is a plant 
+1615, a portion of the people who are humans are also children 
+1616, there exists a group of scientists who are also physicists 
+1617, no bicycles are things that are motorcycles 
+1618, every single guitar is a musical instrument 
+1619, not one passion fruit is a baked good 
+1620, a few stones are in fact flowers 
+1621, any object that is a potato is a vegetable 
+1622, there is no dog that is a cat 
+1623, there are some elephants that are not fish 
+1624, every single object that has four equal sides has four sides 
+1625, it is also true that no mammals are dogs 
+1626, not a single human is an aquatic animal 
+1627, every spider is an arachnid 
+1628, the set of all integers contains no letters 
+1629, all spiders are insects 
+1630, every single thing that is an ocean named pacific is an ocean 
+1631, it is impossible for a bridge to be a celestial body 
+1632, every single thing made of water is a planet 
+1633, it is also true that no adult is a man 
+1634, some motorcycles are not cars 
+1635, there exist some rocks that are not animals 
+1636, a number of sharks are classified as fish 
+1637, everything that is a plant is an organism 
+1638, a few stars are suns 
+1639, anything that is an ant is an insect 
+1640, all things that are cats are felines 
+1641, there are pets which are mammals 
+1642, a few numbers that are odd are also divisible by two 
+1643, it is known that no felines are poodles 
+1644, there are no aliens who are humans 
+1645, there is some apparel that is made of shirts 
+1646, anything that is a writing tool is an object 
+1647, no furniture is a phone 
+1648, a portion of artists are painters 
+1649, lawyers are without exception professionals 
+1650, there are some moons that are rocks 
+1651, a few tables are birds 
+1652, all objects that are metals are elements 
+1653, every single triangle is a square 
+1654, likewise it is true that all cats are creatures 
+1655, a thing that is a table is never a chair 
+1656, everything that is a tree is a plant 
+1657, every single dolphin is a cat 
+1658, all senators are living organisms 
+1659, every single fish is a water creature 
+1660, every single mammal is a living creature 
+1661, there are some people who are teachers and are also english teachers 
+1662, it is known that some items that are spiders are insects 
+1663, every musician is an artist 
+1664, no dog is a bird 
+1665, no animals that are primates are also fish 
+1666, the set of reptiles contains no primates 
+1667, all of the bonfires are fire 
+1668, there are some reptiles that are animals 
+1669, anything that is a gas giant is an object that is a planet 
+1670, nothing that is a wrench is a tool 
+1671, there are no fish that are lawyers 
+1672, every single mammal is a vertebrate 
+1673, among the animals that are snakes some are cold blooded 
+1674, all professors are academics 
+1675, each and every feline is an animal 
+1676, anything that is a scientist is a professional 
+1677, not a single cloud is a musical instrument 
+1678, at least one fish is not an animal with gills 
+1679, every shark is a fish 
+1680, anything that is a bicycle is also a vehicle 
+1681, a subset of vehicles consists of trucks 
+1682, anything that is a pigeon is without exception a bird 
+1683, nothing that is a building can be considered a vehicle 
+1684, it is the case that a portion of dogs are canines 
+1685, all people who are physicists are scientists 
+1686, every single animal is a poodle 
+1687, every single person who is successful works hard 
+1688, at least one bicycle is not a motorized vehicle 
+1689, anything that is invisible is also poisonous 
+1690, there are no dogs that are reptiles 
+1691, it is the case that some water is not a solid 
+1692, anything that is a novel is a fiction book 
+1693, nothing that is a plastic is a metal 
+1694, all things that are fish are vertebrates 
+1695, nothing that is a lizard is a mammal 
+1696, some of the animals known as beagles are dogs 
+1697, some soft drinks are beverages that are chilled 
+1698, anyone who is a professor is also an academic 
+1699, at least one sofa is not a chair 
+1700, a few humans are astronauts 
+1701, there are no dogs that are fish 
+1702, every single tiger is a feline 
+1703, there are keyboards which are also pianos 
+1704, a certain number of oaks are trees 
+1705, all monkeys are by definition primates 
+1706, some of the mushrooms are vegetables 
+1707, it is the case that no fish is an animal 
+1708, of the items that are sharks some are bony fish 
+1709, a number of women are humans 
+1710, it is also true that no bikes are cars 
+1711, some cars possess an internal combustion engine 
+1712, there are some chairs that are wooden objects 
+1713, there are some posters that are not books 
+1714, no clouds are cars 
+1715, it is the case that all lizards are reptiles 
+1716, all buildings in existence are cars 
+1717, a few rivers are bodies of water 
+1718, anything that is an oak is also a plant 
+1719, there are some planets that are stars 
+1720, every single thing which is a novel is a book 
+1721, anything that is an animal is a living thing 
+1722, it is also true that no reptiles are animals 
+1723, all humans are objects with mass 
+1724, there exist shapes that are squares and are also rectangles 
+1725, there are some planets which are celestial bodies 
+1726, it is also true that no cats are vegetables 
+1727, every single creature identified as a bird is a creature with feathers 
+1728, it is the case that no bird can fly 
+1729, it is the case that no rock is a human 
+1730, every single rhinoceros is a mammal 
+1731, all four sided shapes are squares 
+1732, some vehicles are cars 
+1733, there are no cars that are houses 
+1734, a portion of professional cooks are chefs 
+1735, it is known that a portion of rocks are minerals 
+1736, there are students who are readers 
+1737, no mammals are birds whatsoever 
+1738, a portion of jackets are pieces of clothing 
+1739, all items that are sofas are pieces of furniture 
+1740, a portion of tables are birds 
+1741, every single carnivore is an animal 
+1742, some birds are parrots 
+1743, there is no banana which is a carrot 
+1744, all planets are singing lessons 
+1745, every single ant is an insect 
+1746, of the items that are hues a portion of them are red 
+1747, there are no ferraries that are machines 
+1748, no articles of clothing are ever beverages 
+1749, at least one car does not have wheels 
+1750, everything that is a cat is an animal 
+1751, some of the rocks are flowers 
+1752, anything that is a student is a learner 
+1753, all things which are oceans are made of silk 
+1754, every single human being is a mortal creature 
+1755, some objects classified as a rose is a plant 
+1756, all items that are chairs were designed for sitting 
+1757, there are some animals that have prehensile tails which are monkeys 
+1758, it is the case that every single train is a planet 
+1759, there are some scooters which are not vehicles 
+1760, everything that is a bicycle is a two wheeled vehicle 
+1761, a number of items that are not plants are trees 
+1762, every single squirrel is a small rodent 
+1763, every single creature that is a poodle is a dog 
+1764, there are some educators who are teachers 
+1765, every single whale is a mammal 
+1766, not a single stone is a plant 
+1767, it is also true that every lion is a mammal 
+1768, there are politicians who are human 
+1769, every single dog is a mammal 
+1770, it is true that all felines are carnivores 
+1771, there are no primates that are monkeys 
+1772, there is not a single living thing that is a house 
+1773, there are some erasers which are not spaceships 
+1774, every single person who is a librarian is a student 
+1775, it is also the case that every single bat is a vertebrate 
+1776, among the creatures that are animals some are mammals 
+1777, there are some mammals that are not non living things 
+1778, all integers are even numbers 
+1779, some of the things that are beverages are liquids 
+1780, a creature that is a reptile is never a mammal 
+1781, there are no dogs that are birds 
+1782, a portion of capital cities are located in europe 
+1783, all things that are reptiles are vertebrates 
+1784, a few snakes are a type of reptile 
+1785, it is the case that no dog is a fish 
+1786, there are no trees that are stones 
+1787, no pen is a pencil 
+1788, there are some reptiles which have fur 
+1789, there are pets which are mammals 
+1790, all trees are by definition plants 
+1791, every single item that is a bug is a six legged arthropod 
+1792, a subset of dogs can be classified as mammals 
+1793, it is the case that no insect is a bird 
+1794, all vegetables are pizzas 
+1795, everything that is a square is a four sided polygon 
+1796, it is also true that all furniture are objects 
+1797, every single student is a person who spends time studying 
+1798, there are some animals which are cats 
+1799, anything that is a wife is a husband 
+1800, it is true that all physicists are scientists 
+1801, none of the robots are humans 
+1802, no cutlery items are books 
+1803, everything that is a song is also made of water 
+1804, it is also true that all roses are flowers 
+1805, every mammal is a domesticated animal 
+1806, anything that is a medical professional is a human 
+1807, every single person who is a senator is a citizen 
+1808, all of the things that are musical notes are sounds 
+1809, each and every book is a paper good 
+1810, any object that is a bench is a chair 
+1811, a portion of warm blooded animals are mammals 
+1812, every single stadium is a building 
+1813, every single lion is an animal 
+1814, a number of sharks are fish 
+1815, no dog is a reptile 
+1816, some people are not professionals 
+1817, nothing that is a magazine is a book 
+1818, among the fish a few are canines 
+1819, everything that is a fish is a dog 
+1820, a portion of chairs are tables 
+1821, a few hammers are in fact tools 
+1822, every single eagle is an animal 
+1823, not a single earth is a celestial body 
+1824, there are some cats that are not pets 
+1825, there are birds and all of them are animals 
+1826, it is also not the case that any fish is a mammal 
+1827, every creature that is a bird is also a flying animal 
+1828, some of the things that are vehicles are cars 
+1829, all parrots are classified as birds 
+1830, there exist shapes that are squares and are also polygons 
+1831, some flowers are not red 
+1832, there are some carrots that are vegetables 
+1833, every single pediatrician is a doctor 
+1834, any and all elephants are also creatures with wings 
+1835, a portion of vertebrates are sharks 
+1836, at least one thing that is a gas giant is a planet 
+1837, every single man is a human 
+1838, no humans are ever insects 
+1839, every single gas is a molecule 
+1840, every single idea is an emotion 
+1841, every single ant is an insect 
+1842, every single insect is a tiny creature 
+1843, all furniture are items found in a household 
+1844, at least one thing that is a circle is a triangle 
+1845, everything that is a carrot is also a vegetable 
+1846, no cars are animals 
+1847, every single human is a reptile 
+1848, all electronic devices are items 
+1849, every teenager is a human 
+1850, there are vegetables that are bell peppers 
+1851, a few of the things that are fish are reptiles 
+1852, everything that is a sibling is a family member 
+1853, each of the planets is in fact a celestial body 
+1854, every man is a bachelor 
+1855, every bicycle is a vehicle 
+1856, anyone who is a runner is also an athlete 
+1857, there are no animals that are roses 
+1858, it is the case that some living creatures are not mammals 
+1859, there are no horses that are not animals 
+1860, there exists a group of students who are also teenagers 
+1861, a portion of the animals are snakes 
+1862, the entire group of objects that can think is a subset of people 
+1863, every single car is a musical instrument 
+1864, no sculpture is literature 
+1865, there are some spiders that are arachnids 
+1866, under no circumstances is a flower a tree 
+1867, a portion of the things that are birds have feathers 
+1868, there are some toyotas that are cars 
+1869, anything that is a penguin is also a bird 
+1870, no cat is a poodle 
+1871, anything that is a flower is a plant 
+1872, there are no tables that are authors 
+1873, every single thing made of glass is indestructible 
+1874, there are a few bicycles that are also automobiles 
+1875, anything that is an animal is a mammal 
+1876, it is not true that any fish are cats 
+1877, every single plant is a mammal 
+1878, there exists at least one creature that is a mammal and also a dolphin 
+1879, there are no doctors who are not people with medical degrees 
+1880, anything that is a lawyer is a politician 
+1881, every single person who is a politician is an individual who holds public office 
+1882, no students are professionals 
+1883, a portion of vehicles are cars 
+1884, anything that is water is a liquid 
+1885, every single bird is an animal 
+1886, a few salamanders are amphibians 
+1887, it is a fact that some animals are not insects 
+1888, every single t shirt is a type of shirt 
+1889, there is no planet that is a food 
+1890, anything that is a human is a mammal 
+1891, every single tree is a type of plant 
+1892, there are some people who are not insects 
+1893, anything that is a cat is a mammal 
+1894, every worm is a bird 
+1895, everything that is a cat is an animal 
+1896, a portion of the things that are pets are not mammals 
+1897, there are cats which are also dogs 
+1898, there are a few trains that are also types of transportation 
+1899, it is the case that some whales belong to the category of mammals 
+1900, it is also the case that no circle is a square 
+1901, among the items that are reptiles some are snakes 
+1902, anything that is a mammal is an insect 
+1903, every single mammal is a cat 
+1904, anything that is a person is an organism 
+1905, every single bicycle has wheels 
+1906, it is also true that no fish are plants 
+1907, there are no fruits which are vegetables 
+1908, at least one motorized vehicle is not a vehicle 
+1909, it is the case that no lion is a bird 
+1910, it is true that all flowers are plants 
+1911, every single thing considered a sport is a recreational activity 
+1912, all things that are glaciers are ice 
+1913, all water is h2o 
+1914, it is also true that no dogs are rocks 
+1915, it is true that some sparrows are flying creatures 
+1916, all screwdrivers are also tools 
+1917, anything that is a teacher is a profession 
+1918, there is a group of reptiles that are also elephants 
+1919, not a single human is a plant 
+1920, therefore no animal can be a vehicle .
+1921, the only logical conclusion is that some beverages are not sodas .
+1922, there exists at least one sun that is a planet .
+1923, consequently a portion of animals are invisible .
+1924, therefore it is clear that some large cities are not oceans .
+1925, therefore every capital city is a city .
+1926, a number of planets are stars .
+1927, every dog is a cat .
+1928, thus every elephant is an animal .
+1929, consequently all sparrows are birds .
+1930, it follows that not a single person is an adult .
+1931, trees can not be classified as plants .
+1932, it is the case that some bicycles are not cars .
+1933, as a result not all daddy longlegs are spiders .
+1934, cats are in no way dogs .
+1935, consequently every single mammal is an insect .
+1936, therefore some reptiles are lizards .
+1937, from this it follows that some creatures with ten legs are males .
+1938, therefore no houses can be vehicles .
+1939, therefore some insects are not elephants .
+1940, it follows then that some paperbacks are not made of paper .
+1941, no star can be considered a sun .
+1942, based on this it must be the case that a certain amount of salmons do not live in the sea .
+1943, consequently there is no car that is green .
+1944, this means that a portion of tables are not objects .
+1945, hence it can be concluded that some beings are planets .
+1946, one must conclude that some birds are fish .
+1947, therefore it is the case that some magazines are not newspapers .
+1948, this proves that every person with a degree is a cloud .
+1949, based on this it must be the case that a certain amount of tuna are not swimmers .
+1950, this leads to the conclusion that some whales are animals with fins .
+1951, consequently every dog is a mammal .
+1952, thus there are no cats that are mammals .
+1953, therefore it follows that some lines are not triangles .
+1954, the conclusion that no buildings are living things is inescapable .
+1955, thus every bird is a cat .
+1956, it follows that no cloud is a building .
+1957, as such it is necessarily true that some buildings are clouds .
+1958, it must be the case that no animal is a dog .
+1959, thus it can be concluded that some circles are not squares .
+1960, a logical consequence of this is that some humans are not living things .
+1961, therefore no bird lives in water .
+1962, thus a portion of animals are stones .
+1963, the only conclusion to draw is that some spiders are not insects .
+1964, this leads to the conclusion that no mammal is an animal .
+1965, it is the case that some plants are tables .
+1966, books are not written works .
+1967, this demonstrates that some roses are not flowers .
+1968, consequently some celestial bodies are cubes .
+1969, it follows that some polygons are squares .
+1970, consequently some oaks are not shrubs .
+1971, it is the case that some people are not humans .
+1972, the result of this is that some fruits are not apples .
+1973, it follows that there are some african lions that are not gazelles .
+1974, therefore there are animals that are trees .
+1975, it is the case that some cutlery is not a spoon .
+1976, consequently there are no fish which are animals .
+1977, thus some dogs are cats .
+1978, from this we can deduce that some crocodiles are not amphibians .
+1979, it follows from this that every nail is a tool .
+1980, it is therefore a fact that some pines are not trees .
+1981, this necessarily suggests that some dogs are not animals .
+1982, this leads to the conclusion that no truck is a vehicle .
+1983, from this we can deduce that some suns are not stars .
+1984, as a result we can conclude that some apples are not fruits .
+1985, consequently every human is an animal .
+1986, this leads to the conclusion that there are some cats which are animals .
+1987, therefore it is implied that some flames are frozen .
+1988, a valid inference is that some penguins are fish .
+1989, it 's the case that some polygons are not squares .
+1990, therefore some mountains are clouds .
+1991, this means that all dogs are mammals .
+1992, it follows that some plants are animals .
+1993, from this it is concluded that some buildings are made of paper .
+1994, automobiles are not cars .
+1995, therefore we can conclude that some predators are not herbivores .
+1996, this implies that every bird is a mammal .
+1997, at least one child is not a doctor .
+1998, therefore all mammals are felines .
+1999, it follows from this that some elevators are engineers .
+2000, it is therefore the case that all snakes are animals .
+2001, all birds are zebras .
+2002, it must follow that all planets are moons .
+2003, consequently it can be said that some birds are not fish .
+2004, from this it is suggested that some doctors are engineers .
+2005, it logically follows that some modes of transportation are cars .
+2006, this means that no apple is a fruit .
+2007, from this we can logically conclude that there are some researchers who are not engineers .
+2008, thus some rings are not round shapes .
+2009, it follows that some people are not cats .
+2010, therefore no bridge is a structure .
+2011, therefore there are no children who are not made of wood .
+2012, therefore there are no fish that are mammals .
+2013, therefore some ideas are not electrical signals in the brain .
+2014, consequently some novels weigh a ton .
+2015, it is concluded that some students are lazy people .
+2016, this implies that no salamander is able to live in saltwater .
+2017, at least one apple is a fruit .
+2018, this means that every single bird is an airplane .
+2019, a certain number of houses are made of candy .
+2020, from this it is suggested that some minerals are fruits .
+2021, therefore some cars are not vehicles .
+2022, at least one tree is a university .
+2023, it logically follows that some tall people are not students .
+2024, there exist no planets that are also celestial bodies .
+2025, from this we must conclude that some cars are not tables .
+2026, it follows that no human is immortal .
+2027, it must be the case that some sparrows are not birds .
+2028, the group of frogs and the group of reptiles have no members in common .
+2029, a portion of tools are hammers .
+2030, therefore canada is a country .
+2031, it logically follows that some women are not human .
+2032, therefore some fish are not mammals .
+2033, it follows that some musicians are singers .
+2034, this proves that some minerals are not birds .
+2035, it therefore stands that some people who are musicians are also scientists .
+2036, this necessarily suggests that some sparrows are not birds .
+2037, this implies that every piece of clothing is a vegetable .
+2038, as a result not all schools are houses .
+2039, there is at least one robot who is not a human .
+2040, it is the case that some planets are not stars .
+2041, there are some objects that are not furniture .
+2042, therefore all dogs can be said to be animals .
+2043, it can be deduced that there are cats that are lions .
+2044, it is necessarily the case that some arachnids are not birds .
+2045, so some animals with wings must be vertebrates .
+2046, one must conclude that some cities are polluted .
+2047, consequently some emotions are tables .
+2048, this implies that a certain number of pets are venomous .
+2049, it follows that at least some tigers are not mammals .
+2050, this proves that some vegetables are food .
+2051, therefore every single zebra is an animate object .
+2052, for this reason every animal is a mammal .
+2053, therefore all motorized vehicles have engines .
+2054, it follows that some fruits are edible things .
+2055, a logical consequence of this is that some bodies of water are not oceans .
+2056, therefore all humans must be birds .
+2057, it can be concluded that no glove is a hammer .
+2058, it follows that some mythical beings are scientific facts .
+2059, this means that every rose is an animal .
+2060, therefore no pencil is able to be used for writing .
+2061, from this it can be stated that some fruits are vegetables .
+2062, there exists at least one frog that lives on land and in water .
+2063, this logically implies that some flowers are not vegetables .
+2064, a portion of mammals are not felines .
+2065, buildings and trees are completely separate categories .
+2066, a number of metals are gold .
+2067, therefore at least some earth is a celestial body .
+2068, this proves that all mammals are birds .
+2069, a subset of electronic devices is not composed of computers .
+2070, it is therefore a fact that no keyboard is used for typing .
+2071, not every insect is a bird .
+2072, it is the case that no sandal is a shoe .
+2073, this necessitates that some aquatic mammals are vegetables .
+2074, there are no birds that are not flightless .
+2075, it is therefore the case that some lizards are reptiles .
+2076, consequently some pets are birds .
+2077, it can be deduced that there are doors that are windows .
+2078, therefore it has been asserted that every bit of water is soda .
+2079, therefore nothing that is a solid is not a liquid .
+2080, thus it is concluded that all celestial bodies are suns .
+2081, some apes are not mammals .
+2082, a number of apples contain seeds .
+2083, trees and shrubs do not belong to the same group .
+2084, as a result some living things are planets .
+2085, it follows from this that every human is a person .
+2086, consequently all boats are cars .
+2087, some felines are not mammals .
+2088, on this basis it has been stated that a few educated people are teachers .
+2089, it follows from this that there are a number of humans who are not robots .
+2090, no apes are mammals .
+2091, there exists at least one body of water which is not an ocean .
+2092, therefore it is certain that no carrots are fruits .
+2093, consequently every single human is a politician .
+2094, this implies that all plants are trees .
+2095, it must follow that every single tree is a plant .
+2096, it is the case that some plants fail to be animals .
+2097, the entire group of planets consists of stars .
+2098, thus some of the things that are apples are not baked goods .
+2099, this implies that some places for cooking are rooms .
+2100, it follows that no aquatic thing is a fish .
+2101, there are no poodles that do not have fur .
+2102, men are not humans .
+2103, it logically follows that no fish are robins .
+2104, therefore it has been asserted that every poodle is a dog .
+2105, one can infer from this that some retrievers are not mammals .
+2106, it follows then that some children are people .
+2107, therefore all vehicles are boats .
+2108, consequently some ferries are boats .
+2109, therefore all carrots are plants .
+2110, thus some edible things are fruits .
+2111, it necessarily follows that some jack russels are mammals .
+2112, it is the case that some zebra is an animal .
+2113, it is implied that some birds are not mammals .
+2114, consequently every single reptile is an ant .
+2115, this means that all gases are liquids .
+2116, at least some dogs have eyes .
+2117, there are some canines that are not mammals .
+2118, at least one student is a machine .
+2119, all birds are fish .
+2120, it follows then that some flies are insects .
+2121, we must conclude that some pets are not cats .
+2122, the group of humans and the group of dogs are mutually exclusive .
+2123, the consequence is that some senators are politicians .
+2124, at least one rose is made of metal .
+2125, consequently some pickups are not trucks .
+2126, fish and mammals are mutually exclusive categories .
+2127, not a single reptile is an animal .
+2128, from this it can be concluded that all fish are birds .
+2129, it is the case that no salty foods are sweet foods .
+2130, thus it must be true that some cars are animals .
+2131, it is necessarily concluded that every pope is a priest .
+2132, therefore some things made of wood are not machines .
+2133, it follows that no shed is a house .
+2134, this implies that no birds are mammals .
+2135, therefore some pigeons can read novels .
+2136, thus it can be concluded that some hippos are aquatic animals .
+2137, this means that no car is made of metal .
+2138, it has been said that some novelists are poets .
+2139, it is necessarily concluded that all salmon live in trees .
+2140, thus every single primate is mortal .
+2141, this necessarily means that some bats are not sparrows .
+2142, thus every dog is an animal .
+2143, we can conclude from this that a portion of creative people are poets .
+2144, therefore every single animal is made of wood .
+2145, therefore a few animals are stones .
+2146, it must be the case that some sadness is not a feeling .
+2147, consequently some of the water is not a fluid .
+2148, the implication is that there exist some novels which are not paintings .
+2149, it follows that not a single plant is a vegetable .
+2150, there exist certain triangles that are not squares .
+2151, therefore there are some people who are not doctors .
+2152, this means that all sedans are cars .
+2153, it follows that there are some plants that are not oaks .
+2154, it is therefore the case that every car is a machine .
+2155, consequently every drop of water is a solid .
+2156, thus some roses are not plants .
+2157, consequently it is the case that some domesticated animals are mythical creatures .
+2158, not all red fruits are vegetables .
+2159, it can be logically concluded that no dogs are felines .
+2160, it is the case that not all creatures that live in water are humans .
+2161, therefore it is argued that there are no cats which are animals .
+2162, therefore we can derive that some men are performers .
+2163, as a result some reptiles are dogs .
+2164, there is at least some part of france that has a capital city .
+2165, it must be the case that a portion of spiders are not creatures that have eight legs .
+2166, thus some penguins are excluded from the group of reptiles .
+2167, consequently there are no things made of sand which are wet .
+2168, this has led to the conclusion that every vegetable is a tree .
+2169, based on this a portion of furniture pieces must not be trees .
+2170, this suggests that some fish are mammals .
+2171, at least one plant is a tree .
+2172, therefore it is the case that some shapes are circles .
+2173, from this it can be claimed that some things are not objects .
+2174, certain animals are not living things that can breathe oxygen .
+2175, it must be the case that some dogs are not mammals .
+2176, therefore no circle can be a shape .
+2177, every single dolphin is a mammal .
+2178, it follows from this that every single dog is a cat .
+2179, it is the case that some bicycles are not cars .
+2180, therefore every single mammal is a cat .
+2181, some pets are not birds .
+2182, it can be concluded that every apple contains seeds .
+2183, some celestial bodies are not moons .
+2184, this allows us to state that some novels are not biographies .
+2185, it must be that some mountains named everest are not oceans .
+2186, no students are machines .
+2187, this implies that some dogs are animals .
+2188, therefore it is the case that some equilateral triangles are not shapes with three sides .
+2189, from these statements it can be concluded that some tables are laptops .
+2190, it is therefore a sound deduction that some suns are not stars .
+2191, this means that everything that is a tree is a human .
+2192, this is why every robot is a smartphone .
+2193, it follows that some flowers are planets .
+2194, it is therefore a fact that no airplane is able to fly .
+2195, it follows logically that some tigers are not aquatic animals .
+2196, from this it can be stated that some cats are dogs .
+2197, it follows that some creative people are painters .
+2198, there are some humans that are not mammals .
+2199, this means that all plants are living organisms .
+2200, the only conclusion is that some germans are not europeans .
+2201, hence some fish are reptiles .
+2202, therefore not all pines are trees .
+2203, a subset of vegetables is not fruit .
+2204, it is therefore true that some structures are not skyscrapers .
+2205, it follows from this that some novels are not nonfiction books .
+2206, it follows then that some coffee shops have a drive thru .
+2207, it is a logical necessity that some musical instruments are vegetables .
+2208, consequently no dog is a mammal .
+2209, a subset of planets are moons .
+2210, consequently it follows that some granite is not plants .
+2211, therefore a portion of farm animals can fly .
+2212, it is concluded that some dogs are cats .
+2213, it follows that all pets are mammals .
+2214, artists are not scientists .
+2215, it follows that no cat is a mammal .
+2216, we can conclude that no parrots are fish .
+2217, a subset of insects are spiders .
+2218, therefore there is no bus that is a vehicle .
+2219, from these facts it is clear that a few publications are novels .
+2220, it follows that no ant is a human .
+2221, it follows from this that some birds are animals .
+2222, it 's the case that some fluids are not substances .
+2223, it follows that no plastic is a precious substance .
+2224, it is thus the case that no news article is a novel .
+2225, a conclusion that can be drawn from this is that there are no insects which are winged creatures .
+2226, this leads to the conclusion that some oaks are not trees .
+2227, no bicycle has an engine .
+2228, it follows that every spider is a creature with eight legs .
+2229, it can be deduced that some things that grow on plants are shoes .
+2230, thus not all cats are felines .
+2231, consequently there exist some trees which are not animals .
+2232, consequently there exist some musicians who are not doctors .
+2233, there are some mothers that are not humans .
+2234, this means that some plants are cars .
+2235, therefore all vehicles must be cars .
+2236, it follows that not all sparrows are birds .
+2237, consequently it can be said that some mammals are not fish .
+2238, it follows that a portion of cars are not modes of transportation .
+2239, some chairs fail to be furniture .
+2240, consequently every single bird is a dog .
+2241, a certain quantity of diamonds is soft .
+2242, it can be deduced that there are no dogs that are fish .
+2243, the implication is that some triangles are not polygons .
+2244, water is in no way a fluid .
+2245, it must be the case that no fish is a bird .
+2246, this implies that a portion of poodles can photosynthesize .
+2247, therefore we can conclude that a few jackets are shirts .
+2248, it is the case that a portion of all aliens are people .
+2249, therefore it must be that some cats are not dogs .
+2250, therefore ice can not be water .
+2251, as a result every single scientist is a smart person .
+2252, it is necessarily concluded that every leaf is a vegetable .
+2253, it follows that no table can be an item of furniture .
+2254, it follows that no wolves are herbivores .
+2255, therefore a certain number of doctors can fly .
+2256, it is therefore true that every celestial body is a planet .
+2257, from these facts it is clear that a few living things are planets .
+2258, therefore some potatoes are not vegetables .
+2259, it must be the case that every single hummingbird is not an animal .
+2260, it 's the case that some planets are not celestial bodies .
+2261, it follows that not a single dog is a cat .
+2262, it must be that some carrots are not grapes .
+2263, consequently every single human is a child .
+2264, this means that some people are surgeons .
+2265, some triangles are not polygons .
+2266, there exist no dogs that are fish .
+2267, from this it can be claimed that some animals are mammals .
+2268, it must follow that some prime numbers are not numbers .
+2269, this means that no fish is a mammal .
+2270, it is impossible for a gazelle to be a lion .
+2271, it follows then that some robins are made of glass .
+2272, thus it can be concluded that some birds are dogs .
+2273, one can therefore conclude that some books are not short stories .
+2274, from this it follows that all cats are fish .
+2275, therefore some ferraris are not bicycles .
+2276, thus it can be concluded that some professionals are also teachers .
+2277, therefore a certain number of birds are animals .
+2278, from this we can logically conclude that there are some mothers who are not humans .
+2279, thus some golden retrievers are not cats .
+2280, based on this some humans are not mortal .
+2281, consequently some bats are not mammals .
+2282, this logically means that no reptile is an animal .
+2283, there is at least one stone which is not a tree .
+2284, this is why some apples are vegetables .
+2285, anything that is a chair is a sofa .
+2286, this leads to the conclusion that some fish are elephants .
+2287, consequently every single human is a primate .
+2288, a portion of triangles are squares .
+2289, this proves that no electronic device is a phone .
+2290, thus it is concluded that no fish are mammals .
+2291, it follows that all gases are liquids .
+2292, it must follow that all mammals are lizards .
+2293, consequently no piece of furniture is a vehicle .
+2294, therefore some pets are not dogs .
+2295, this leads to the conclusion that some pets are cats .
+2296, this proves that a number of cars are not vehicles .
+2297, it is necessarily the case that a snake is never a mammal .
+2298, it must be the case that every single shape is not a square .
+2299, it is necessarily true that some cities named london are not countries .
+2300, this means that a few dogs are mammals .
+2301, it follows directly that no vertebrate is an insect .
+2302, from this we can logically derive that some babies are not humans .
+2303, therefore some lizards are not reptiles .
+2304, it follows that a number of carrots are poisonous .
+2305, nothing that is a square is also a triangle .
+2306, some lions are not mammals .
+2307, it is the case that some lions are not rhinos .
+2308, thus we can validly conclude that some animals are not songs .
+2309, it is a logical consequence that some sparrows are not birds .
+2310, there are some odd numbers that are even numbers .
+2311, it is therefore the case that some dogs are mammals .
+2312, therefore no fruit is a stone .
+2313, from this it follows that some mammals are not animals .
+2314, consequently every single terrier is a dog .
+2315, there exist buildings that are not houses .
+2316, from this it is concluded that no whale is an elephant .
+2317, a number of vegetables are not fruits .
+2318, at least some soccer is a thing that requires physical activity .
+2319, it can be concluded that no water is a liquid .
+2320, as a result some cars are buildings .
+2321, this means that some buildings are made of chocolate .
+2322, therefore it is possible to infer that some rocks are animals .
+2323, therefore every single food contains rocks .
+2324, it follows that a few cats are dogs .
+2325, this means that all fruits are foods .
+2326, it follows that some fruits are not stones .
+2327, it must be true that every animal is a dog .
+2328, some creatures that can bark are not dogs .
+2329, it can be concluded that no car is a blue thing .
+2330, as such it is necessarily true that some animals are penguins .
+2331, it is the case that no rock is solid .
+2332, the implication is that a number of planets are not celestial bodies .
+2333, from these statements one can conclude that some apples are not vegetables .
+2334, therefore there are pieces of furniture that are planets .
+2335, there is at least one dog that is a cat .
+2336, this means that all seas are bodies of water .
+2337, it follows that every fruit is a plant .
+2338, it is the case that some animals living in the ocean are not land animals .
+2339, the result of this is that some croissants are vegetables .
+2340, as a result some arthropods are insects .
+2341, this proves that all mammals are humans .
+2342, this implies that some pets are cats .
+2343, consequently some living beings are chairs .
+2344, it is a necessary conclusion that no book is a novel .
+2345, therefore some objects in space are planets .
+2346, we can infer that some sharks are not animals that live in water .
+2347, this means that every chihuahua is a canine .
+2348, as such there are some dogs that are not cats .
+2349, therefore it is certain that every shark is an amphibian .
+2350, this proves that some vehicles are not motorcycles .
+2351, it is the case that some couches are numbers .
+2352, the conclusion that some carrots are not plants is inescapable .
+2353, this necessarily implies that some penguins are not birds .
+2354, it is a logical consequence that some vehicles are not boats .
+2355, as a result a portion of celestial bodies are numbers .
+2356, consequently all fish are mammals .
+2357, therefore some mammals are liquids .
+2358, it must be the case that some laptops are not computers .
+2359, it can be said that some giraffes are not spoons .
+2360, consequently some animals are mammals .
+2361, not a single mammal is an animal .
+2362, it follows that some animals are cats .
+2363, some felines are not mammals .
+2364, all politicians are honest people .
+2365, it is necessarily true that a portion of dogs is not canines .
+2366, it follows then that some circles are square .
+2367, therefore all lions can be said to be animals .
+2368, it follows that no sounds are waves .
+2369, this has led to the conclusion that a portion of vehicles are cars .
+2370, fish are in no way animals .
+2371, a conclusion that can be drawn from this is that there are insects which are winged creatures .
+2372, it follows from this that all fruits are clouds .
+2373, this leads to the conclusion that a certain number of cats are not felines .
+2374, this means that no one who is a teacher is a doctor .
+2375, it is the case that some animals fail to be birds .
+2376, consequently some mammals are found to be lions .
+2377, it is thus the case that not every visible color is a secondary color .
+2378, it follows from this that there exist some things made of vapour that are not made of water .
+2379, nothing that is a dog is a fish .
+2380, it is the case that all people are mammals .
+2381, this leads to the conclusion that some abacuses are not laptops .
+2382, consequently among the class of mammals some are carnivores .
+2383, at least one cat is a mammal .
+2384, apples and vegetables are two separate categories .
+2385, we can infer that some cats are not animals .
+2386, it is necessarily concluded that every chair is a tree .
+2387, therefore it is possible to conclude that some fish are not dogs .
+2388, this has led to the conclusion that a portion of animals are birds .
+2389, consequently some bipedal animals are primates .
+2390, it can be concluded that no shoe is clothing .
+2391, it must be concluded that some tarantulas are not arachnids .
+2392, one might conclude that no birds are cats .
+2393, a portion of shapes are not circles .
+2394, it follows that some things that can be poured are not liquids .
+2395, it 's the case that some shapes are not circles .
+2396, this means that no car can be a bicycle .
+2397, one can therefore conclude that some mammals do not have blood .
+2398, consequently nothing that is an ant is an animal .
+2399, it logically follows that there are some students who are not teachers .
+2400, from these statements it follows that some animals are not reptiles .
+2401, consequently some elephants are fish .
+2402, it must therefore be true that every mammal is an animal .
+2403, at least one human is a non living thing .
+2404, therefore a number of bicycles do not belong to the category of vehicles .
+2405, it follows that no car is a bicycle .
+2406, based on this it must be the case that some dogs are not mammals .
+2407, consequently it can be said that some apples are not fruits .
+2408, therefore we can conclude that some snakes have fur .
+2409, therefore some knowledgeable people are professors .
+2410, it follows that no bird is a living being .
+2411, as a result all mortals are humans .
+2412, it logically follows that there are some plants that are not pines .
+2413, thus there are no trees that are also mammals .
+2414, it is the case that no triangle is a square .
+2415, from this it follows that some animals are indeed dogs .
+2416, consequently every vehicle is an airplane .
+2417, therefore some fish are fresh water fish .
+2418, consequently some principal is an educator .
+2419, the conclusion that a portion of antiques are not musical instruments is inescapable .
+2420, it must follow that a portion of mammals are animals .
+2421, from this it follows that there are no wolves which are mammals .
+2422, the conclusion is that some birds are not penguins .
+2423, it follows from this that all reptiles are snakes .
+2424, it is necessarily true that some women are not humans .
+2425, it is the case that some parrots are not birds .
+2426, hence some plants that have thorns are flowers .
+2427, this implies that all women are men .
+2428, as a result not all fish are cats .
+2429, therefore all cars can be said to be plants .
+2430, as a result it must be that some teachers are not people .
+2431, a part of the population of teachers are not nurses .
+2432, some musical instruments can not be classified as drums .
+2433, the consequence is that some human beings are not mammals .
+2434, consequently every student is a teacher .
+2435, therefore all gases are liquids .
+2436, it follows that a few things with feathers are fish .
+2437, it is the case that no cat is a dog .
+2438, there exists at least one whale that is cold blooded .
+2439, we can therefore deduce that some household goods are not chairs .
+2440, it must be the case that some homes are not buildings .
+2441, this means every dog is a mammal .
+2442, it can be deduced that there are no things with wings that are animals .
+2443, we must accept that some automobiles are not vehicles .
+2444, therefore there is no bicycle that is a car .
+2445, some animals are not dogs .
+2446, therefore it can be concluded that no insects are vertebrates .
+2447, therefore it is a fact that some airplanes are cars .
+2448, this implies that some zebras are mammals .
+2449, therefore we can deduce that no doctors are animals .
+2450, it follows from this that there are some celebrities who are prime ministers .
+2451, consequently some weather phenomena are made of rock .
+2452, therefore some trees are computers .
+2453, therefore all citizens of the us need to pay taxes .
+2454, at least one dog is warm blooded .
+2455, consequently every single thing that is a bird is an animal .
+2456, as a result no carrots are flowers .
+2457, the consequence is that there exist human beings who are not musicians .
+2458, as a result no building is a mammal .
+2459, it follows from this that there are a number of poodles who are not dogs .
+2460, this means that every single bat is a bird .
+2461, therefore we can conclude that no chair is a table .
+2462, there are no spiders that do not have six legs .
+2463, it must follow that no feline is a cat .
+2464, consequently no birds are mammals .
+2465, it is the case that some vertebrates are not land animals .
+2466, it follows that some dollars are not money .
+2467, consequently some poodles are not dogs .
+2468, it is therefore suggested that some zebras are tables .
+2469, hence a group of human beings are leaders .
+2470, it is the case that a portion of amphibians are not mammals .
+2471, there exists at least one eraser which is not a pencil .
+2472, this leads to the conclusion that some carrots are plants .
+2473, consequently some trucks are not cars .
+2474, it has been proposed that no circles are polygons .
+2475, consequently no clouds are made of water .
+2476, it follows from this that every single thing with wheels is a car .
+2477, one can conclude that some animals are mammals .
+2478, birds can not be considered animals .
+2479, based on this it must be the case that a certain number of carnivores are not animals .
+2480, it is the case that no bird is an animal .
+2481, hence some domestic animals are buildings .
+2482, therefore there are no skyscrapers that are buildings .
+2483, it follows that some geometric shapes are polygons .
+2484, therefore it necessarily follows that some of the objects that are rocks are not bananas .
+2485, consequently there are no bicycles which are liquid .
+2486, this implies that all roses are flowers .
+2487, consequently it must be true that some integers are not concepts .
+2488, therefore this implies that all clouds are rocks .
+2489, thus a number of houses are vehicles .
+2490, there exists at least one atlantic ocean that is a desert .
+2491, a portion of weeks are not units of time .
+2492, it can be concluded that no mammal is a dog .
+2493, this proves that a number of humans are not teenagers .
+2494, therefore it is a fact that some plants are roses .
+2495, it is thus the case that all balls are planets .
+2496, it necessarily follows that some sea basses are not fish .
+2497, from this it can be concluded that some animals are reptiles .
+2498, therefore some numbers divisible by two are not even .
+2499, therefore we can conclude that a few articles of clothing are shirts .
+2500, therefore it is argued that there are no cats which are dogs .
+2501, therefore all tools are hammers .
+2502, thus some arthropods are insects .
+2503, thus some spiders are vertebrates .
+2504, some engineers fail to be doctors .
+2505, therefore some planets are comets .
+2506, it is the case that some felines fail to be mammals .
+2507, a certain number of pilots are not chefs .
+2508, it is the case that no student is an learner .
+2509, this has led to the conclusion that every vegetable is a human .
+2510, consequently a portion of non runners are not athletes .
+2511, this means that every kitten has three eyes .
+2512, it is the case that a portion of organisms are not living things .
+2513, it follows that some beverages are not sodas .
+2514, as a result at least one thing that is a carrot is not a fruit .
+2515, it follows that some stories fail to be non fiction .
+2516, it follows from this that some humans are not men .
+2517, consequently no oceans are liquids .
+2518, this necessitates that no lizard is a dog .
+2519, it follows that some gases are solids .
+2520, it follows that some birds are not penguins .
+2521, one can therefore conclude that some plants are roses .
+2522, it can be deduced that there are bridges that are planets .
+2523, therefore no food is a phone .
+2524, therefore some dogs do not belong to the group of canines .
+2525, it 's the case that some oaks are human beings .
+2526, therefore all triangles must be circles .
+2527, this proves that some fantasy novelists are not scientists .
+2528, therefore some things that are ladles are not forks .
+2529, from this it can be concluded that no bat is an eagle .
+2530, consequently there are some cats who are not dogs .
+2531, all birds are living things .
+2532, thus some aquatic animals are things that are fish .
+2533, on this basis it has been stated that a few professionals are doctors .
+2534, it is the case that some sharks are not mammals .
+2535, therefore it must be the case that all hills are flat .
+2536, this necessarily means that some trees are not tulips .
+2537, this implies that all birds are vehicles .
+2538, therefore no foreigner is a voter .
+2539, hence some things that are made of fire are insects .
+2540, therefore some animals that are mammals are not felines .
+2541, therefore all dogs can be said to be vegetables .
+2542, doctors and engineers are mutually exclusive occupations .
+2543, thus it is concluded that no spoons are machines .
+2544, it logically follows that some bodies of water are not oceans .
+2545, consequently every single senator is a politician .
+2546, it is the case that some vehicles are not motorcycles .
+2547, therefore every chair is sentient .
+2548, certain geometric shapes are not triangles .
+2549, therefore some university faculty are researchers .
+2550, it follows that some whales are mammals .
+2551, it follows that there are no fish that are mammals .
+2552, it follows that some automobiles are not cars .
+2553, it must be the case that some tigers are not felines .
+2554, consequently no artist is a professor .
+2555, it follows that all mammals are not primates .
+2556, this means that all hammers are objects .
+2557, it follows from this that some tables are chairs .
+2558, a portion of earth is not a planet .
+2559, therefore it is possible to conclude that some circles are not geometric figures .
+2560, therefore this implies that some items with wheels are vehicles .
+2561, therefore every single animal can fly .
+2562, thus there are no dogs that are mammals .
+2563, consequently it follows that all husbands are people .
+2564, therefore it is true that some cats are not mammals .
+2565, therefore it follows that some butterflies are insects .
+2566, it is a logical consequence that some things with gills are trees .
+2567, a certain part of earth is made of cheese .
+2568, we can conclude from this that some writing tools are not pens .
+2569, not a single dog is a human .
+2570, this means that every airplain is an insect .
+2571, therefore it is the case that some sparrows are not insects .
+2572, it 's impossible for any lamp to be a table .
+2573, it follows that no animal with fur is a cat .
+2574, at least one tree is not an animal .
+2575, it must be the case that some children are not humans .
+2576, a valid inference is that some physicists are not artists .
+2577, therefore it is the case that some motorcycles are not cars .
+2578, it follows that some musical instruments are rocks .
+2579, consequently it follows that some passion fruits are not fruits .
+2580, there exist flowers that are not plants .
+2581, this means that all potatoes are clouds .
+2582, it can be concluded that no dog is a four legged creature .
+2583, we can conclude that no elephant is an insect .
+2584, this means that all squares have four sides .
+2585, thus it is concluded that no mammals are animals .
+2586, as a result no human is a fish .
+2587, it follows that no spider has eight legs .
+2588, it is the case that there are certain integers which are not numbers .
+2589, this means that a few insects are mammals .
+2590, this means some oceans named pacific are not continents .
+2591, some bridges can be found that are not planets .
+2592, from these statements it can be concluded that some planets are robots .
+2593, it follows that no adult is a woman .
+2594, therefore some motorcycles are not sedans .
+2595, this logically entails that some rocks are not solid .
+2596, consequently it is the case that some fish are aquatic creatures .
+2597, it 's the case that some organisms are not living things .
+2598, it is the case that some suns are cold .
+2599, therefore there are no ants that do not have six legs .
+2600, it can be deduced that there are cats that are tigers .
+2601, the result of this is that some mammals are not felines .
+2602, not all numbers that are divisible by two are even .
+2603, consequently there are no felines which are canines .
+2604, this means that no human is a doctor .
+2605, we must conclude that some apparel is not clothing .
+2606, consequently we can conclude that that every single object is a pencil .
+2607, it is therefore a sound deduction that some phones is not technology .
+2608, a certain portion of painters are not musicians .
+2609, a number of professionals are doctors .
+2610, consequently some moons are planets .
+2611, consequently some tables are able to fly .
+2612, consequently some elements are not gold .
+2613, this means that all triangles are round .
+2614, therefore it has been asserted that every cat is a dog .
+2615, it follows that a table is never a piece of furniture .
+2616, it logically follows that there are some plants that do not have roots .
+2617, it is therefore the case that every dolphin is a fish .
+2618, consequently every single senator is a politician .
+2619, consequently no fish are able to breathe underwater .
+2620, consequently there exist some mammals which are not animals .
+2621, thus some individuals who are teachers are not physicists .
+2622, a consequence is that some spiders are mammals .
+2623, from these two facts one can conclude that some artists are not pianists .
+2624, this leads to the conclusion that no dog is a cat .
+2625, therefore it is the case that some fish are not humans .
+2626, every single reptile is a human .
+2627, thus there exist some bonfires which are not hot .
+2628, it can be concluded that all reptiles are mammals .
+2629, therefore there are no gas giants that do not orbit a star .
+2630, therefore it must be the case that every wrench is a hammer .
+2631, therefore some lawyers are politicians .
+2632, therefore there are vertebrates that are animals .
+2633, it is therefore the case that some snakes are not reptiles .
+2634, this leads to the conclusion that there are some professors who are not humans .
+2635, this makes it true that every feline is a mammal .
+2636, consequently some professionals are people who study .
+2637, from this it follows that no musical instruments is a keyboard .
+2638, not every fish is a living being .
+2639, consequently it follows that some fish are not creatures that leave in water .
+2640, it 's the case that some bicycles fail to be cars .
+2641, it can be deduced that some vehicles are not cars .
+2642, this means that all pigeons are animals .
+2643, there are some buildings that do not fit the description of a car .
+2644, this proves that some dogs are felines .
+2645, this leads to the conclusion that all physicists are biologists .
+2646, the conclusion that no animal is a dog is inescapable .
+2647, this proves that everyone who works hard can be rich .
+2648, not all bicycles can be considered cars .
+2649, this means that a few poisonous things are books .
+2650, consequently no reptiles are cats .
+2651, the only conclusion is that some water is not a liquid .
+2652, therefore some novels are non fiction .
+2653, therefore no plastic is gold .
+2654, it can be deduced that some vertebrates are aquatic animals .
+2655, consequently there are no creatures that are both lizards and dogs .
+2656, as a result some beagles are not birds .
+2657, it follows that some soft drinks are cold .
+2658, consequently it can be concluded that some academics are not lecturers .
+2659, not every sofa is a furntiture .
+2660, it is the case that a portion of all astronauts are insects .
+2661, consequently every dog is a mammal .
+2662, it follows that every tiger is not a cat .
+2663, we must conclude that some keyboards are not instruments .
+2664, this implies that some trees are plants .
+2665, we can conclude that some monkeys have a thumb .
+2666, therefore some vegetables are not plants .
+2667, at least some fish live on land .
+2668, we must conclude that some sharks are not fish .
+2669, consequently some women are people .
+2670, from these statements one can conclude that some bikes are not boats .
+2671, from this it follows that some cars need fuel .
+2672, it follows then that some chairs can be set on fire .
+2673, therefore it is the case that some posters are not novels .
+2674, based on this information it is logically necessary that some cars are not vehicles .
+2675, it follows that some lizards are snakes .
+2676, a certain portion of cars are not vehicles .
+2677, consequently it is possible to infer that some rivers are oceans .
+2678, some oaks fail to be trees .
+2679, consequently all planets are celestial bodies .
+2680, one can therefore conclude that some books do not have pages .
+2681, it is therefore the case that all animals are plants .
+2682, thus it is concluded that no reptiles are animals .
+2683, consequently every single human is a living thing .
+2684, it necessarily follows that a subset of rectangles are not shapes .
+2685, planets are in no way stars .
+2686, therefore it is argued that every cat is an animal .
+2687, none of the creatures that are birds are also insects .
+2688, therefore all birds are mammals .
+2689, at least some rocks can walk .
+2690, this means that no rhinoceros is an elephant .
+2691, it follows from this that some squares are not rectangles .
+2692, therefore every single vehicle is an object that moves .
+2693, it follows then that some cars are buildings .
+2694, thus it is the case that some chefs are people who can cook .
+2695, this leads to the conclusion that a certain number of rocks are plants .
+2696, consequently some students are scholars .
+2697, this implies that no bird is a fish .
+2698, some pieces of clothing are not hats .
+2699, refrigerators are not sofas .
+2700, some of the things that are birds are not animals .
+2701, it is the case that some animals are mammals .
+2702, this implies that some birds are mammals .
+2703, this means that no banana is a fruit .
+2704, it can be logically concluded that some singing lessons are spoons .
+2705, consequently all ants are made of glass .
+2706, it must be the case that some hues are not colors .
+2707, consequently no ferrari is a car .
+2708, this implies that some beverages are not shirts .
+2709, not all cars are vehicles .
+2710, it is the case that some cats are not canines .
+2711, therefore some flowers are not plants .
+2712, students can not be people .
+2713, it follows that some things made of silk are computers .
+2714, therefore no human is immortal .
+2715, therefore no roses are fish .
+2716, chairs are not furniture .
+2717, this means that a few animals with prehensile tails are primates .
+2718, consequently some planets can not be considered celestial bodies .
+2719, it follows that some scooters are not trucks .
+2720, this proves that some bicycles are not cars .
+2721, therefore a portion of trees are plants .
+2722, consequently no squirrel is a bear .
+2723, it follows that not a single dog is a cat .
+2724, consequently some educators are robots .
+2725, not a single whale is a human .
+2726, all stones are trees .
+2727, this means that there are no lions that are humans .
+2728, this means that some politicians are animals .
+2729, it is therefore the case that every dog is a bird .
+2730, this means that a few carnivores are cats .
+2731, from this it follows that no primate is a human .
+2732, this means that no house is a building .
+2733, it follows that some erasers are not writing tools .
+2734, it is the case that some of the people who are students are people who enjoy reading .
+2735, consequently nothing that is a bat is a bird .
+2736, consequently some of the creatures that are animals are not reptiles .
+2737, it follows that some mammals are not animals .
+2738, it follows from this that some even numbers are not divisible by two .
+2739, it follows that some beverages are solids .
+2740, it follows that a cat is never a mammal .
+2741, it follows then that some dogs are cats .
+2742, it therefore follows that some cities in europe are major cities .
+2743, consequently it can be concluded that some vertebrates are spoons .
+2744, thus some reptiles are cold blooded animals .
+2745, this implies that some dogs swim .
+2746, therefore no trees are alive .
+2747, this means no pen is a writing tool .
+2748, consequently a number of reptiles are mammals .
+2749, we must conclude that some pets are not dogs .
+2750, at least one tree needs sunlight .
+2751, it follows from this that a portion of bugs are not insects .
+2752, it follows that at least some dogs are not cats .
+2753, it follows that some insects have wings .
+2754, thus some pizzas are not foods .
+2755, the implication is that a portion of squares are not rectangles .
+2756, thus it is concluded that all objects are tables .
+2757, it follows that of the people who study some of them are also athletes .
+2758, therefore every single cat is an animal .
+2759, it 's the case that some husbands are not people .
+2760, it follows that some scientists are people .
+2761, it follows that no human is a teacher .
+2762, this logically entails that some books are not spoons .
+2763, hence some things made of water are mountains .
+2764, therefore it is concluded that a few flowers are roses .
+2765, from this it can be concluded that some domesticated animals are dogs .
+2766, thus every single human is a doctor .
+2767, this leads to the conclusion that there are some senators who are not citizens .
+2768, consequently some musical notes are not phenomena that travel in waves .
+2769, it logically follows that no books are made of paper .
+2770, consequently all benches are pieces of furniture that are made of liquid .
+2771, therefore there exist some warm blooded animals that are vertebrates .
+2772, it is therefore the case that some buildings are not houses .
+2773, as a result some animals are not insects .
+2774, it follows then that some sharks are birds .
+2775, therefore no reptiles are mammals .
+2776, therefore it is implied that some people are not adults .
+2777, therefore a magazine can not be a novel .
+2778, not all canines are mammals .
+2779, thus every fish is a reptile .
+2780, some of the tables are not furniture .
+2781, there exist tools that are not kitchen items .
+2782, it is the case that some eagles are birds .
+2783, it follows from this that no earth is a planet .
+2784, it must be true that no cat is a dog .
+2785, based on this it must be the case that every bird is a fish .
+2786, it follows from this that no mammals are birds .
+2787, as a consequence there is not a single bird that is a fish .
+2788, it must be true that some airplanes are not vehicles .
+2789, therefore it must be that all birds have beaks .
+2790, from this we know for certain that some polygons are not circles .
+2791, from this all flowers are roses .
+2792, it follows then that some carrots are healthy foods .
+2793, it is the case that some pediatricians are trained in medicine .
+2794, this implies that all elephants are flying objects .
+2795, a subset of sharks are fish .
+2796, some of the things that are planets are not stars .
+2797, from this it follows that some humans are living beings .
+2798, this logically suggests that some insects are not doctors .
+2799, as a result all gases are liquids .
+2800, consequently some emotions are made of cheese .
+2801, it logically follows that ants are not mammals .
+2802, it logically follows that some tiny creatures are large predators .
+2803, it follows that some items found in a household are chairs .
+2804, some of the things that are triangles are not polygons .
+2805, every single apple is a carrot .
+2806, a portion of modes of transportation are not vehicles .
+2807, therefore there are reptiles that are aliens .
+2808, this proves that some items are books .
+2809, it follows from this that every single human is a robot .
+2810, it is correct to infer that some vegetables are not carrots .
+2811, this leads to the conclusion that a certain number of fish are mammals .
+2812, it can be deduced that a part of siblings are not relatives .
+2813, for this reason no planet is an item of furniture .
+2814, it follows that every bachelor is a human .
+2815, therefore some vehicles are fruits .
+2816, therefore a subset of athletes are fitness enthusiasts .
+2817, consequently there are no animals that are plants .
+2818, therefore it follows that some mammals are not dogs .
+2819, a number of horses are able to breathe underwater .
+2820, a valid inference is that no teenagers are inhanimate objects .
+2821, thus not all snakes are reptiles .
+2822, it is a logical consequence that some people are not mammals .
+2823, therefore there are musical instruments that are emotions .
+2824, it is the case that no sculpture is poetry .
+2825, this means that there exist spiders that have six legs .
+2826, this leads to the conclusion that some trees are not roses .
+2827, it must be the case that every single bird is not a mammal .
+2828, this leads to the conclusion that some toyotas are vehicles .
+2829, it necessarily follows that certain birds are not flying animals .
+2830, therefore no cat is a dog .
+2831, it 's the case that some plants are not organisms .
+2832, consequently no table is a creative .
+2833, from this it can be derived that some indestructible things are humans .
+2834, there are some automobiles that are not vehicles .
+2835, it follows that every mammal is a fish .
+2836, it follows that no fish are animals .
+2837, it must be that a portion of mammals are not animals .
+2838, this proves that at least one dolphin is not a fish .
+2839, therefore some people with medical degrees are medical professionals .
+2840, as a result some politicians are mythical creatures .
+2841, politicians are not people .
+2842, it necessarily follows that some professionals are not teachers .
+2843, it necessarily follows that some cars are magical items .
+2844, at least one quantity of water is solid .
+2845, one must conclude that every animal is a parrot .
+2846, it must follow that a certain number of amphibians are planets .
+2847, it is necessarily true that no insects are vertebrates .
+2848, consequently every t shirt is clothing .
+2849, it is thus the case that no food is a tomato .
+2850, there are some mammals which are not animals .
+2851, it must be the case that some plants are not flowers .
+2852, therefore we can conclude that some people are not birds .
+2853, this means that every cat is a dog .
+2854, this leads to the conclusion that all birds are insects .
+2855, all felines are canines .
+2856, it must be the case that some pets are birds .
+2857, from this we know that there are certain dogs that are not animals .
+2858, there are some types of transportation that are not cars .
+2859, consequently some whales are not fish .
+2860, consequently no circle is a triangle .
+2861, this proves that a number of snakes are mammals .
+2862, it is the case that some insects are birds .
+2863, therefore there are mammals that are felines .
+2864, therefore a portion of organisms are chairs .
+2865, it follows that all bicycles are cars .
+2866, therefore no plants are birds .
+2867, this necessitates the conclusion that no vegetable is an apple .
+2868, there is at least one motorized vehicle that is not a car .
+2869, it is the case that no lion is a mammal .
+2870, from this it is stated that some flowers are roses .
+2871, therefore some recreational activities are team sports .
+2872, it follows that some glaciers are not frozen water .
+2873, it can be deduced that some water is not liquid .
+2874, therefore it is argued that there are no dogs which are animals .
+2875, for this reason every single sparrow is a bird .
+2876, it must be true that no screwdriver is a hammer .
+2877, therefore some professions are not doctors .
+2878, it must logically follow that some elephants are not mammals .
+2879, all humans are trees .
